@@ -1,0 +1,9 @@
+{
+    "version": "1.0.8-1005",
+    "features": [
+        "Mas mejoras"
+    ],
+    "app_url": "https://github.com/playhubplus/app/releases/download/v/release.apk",
+    "orders": false,
+    "third": true
+}
