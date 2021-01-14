@@ -1,6 +1,6 @@
 {
-    "version": "1.0.8-1007",
-    "features": "Agregar a mi lista en series reparado.",
+    "version": "1.0.8-1008",
+    "features": "Reparamos algunos errores en los servidores.",
     "app_url": "https://github.com/playhubplus/app/releases/download/v/release.apk",
     "orders": false,
     "third": true
