@@ -1,6 +1,6 @@
 {
-    "version": "1.0.8-1008",
-    "features": "Reparamos algunos errores en los servidores.",
+    "version": "1.0.8-1009",
+    "features": "Agregamos la sección de comentarios, reparamos algunos errores en los servidores, ahora el reproductor inicia en pantalla completa y más.",
     "app_url": "https://github.com/playhubplus/app/releases/download/v/release.apk",
     "orders": false,
     "third": true
