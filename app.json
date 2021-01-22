@@ -1,6 +1,6 @@
 {
-    "version": "1.0.8-1009",
-    "features": "Agregamos la sección de comentarios, reparamos algunos errores en los servidores, ahora el reproductor inicia en pantalla completa y más.",
+    "version": "1.0.8-10010",
+    "features": "Mejoramos la sección de comentarios, ahora puedes responder los comentarios, y mas cosas :), recuerda compartir la app eso nos ayuda mucho",
     "app_url": "https://github.com/playhubplus/app/releases/download/v/release.apk",
     "orders": false,
     "third": true
