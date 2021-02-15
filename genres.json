@@ -1,0 +1,383 @@
+{
+    "movies": [
+    {
+    "the_id": 28,
+    "slug": "accion",
+    "name": "Acción"
+    },
+    {
+    "the_id": 12,
+    "slug": "aventura",
+    "name": "Aventura"
+    },
+    {
+    "the_id": 16,
+    "slug": "animacion",
+    "name": "Animación"
+    },
+    {
+    "the_id": 35,
+    "slug": "comedia",
+    "name": "Comedia"
+    },
+    {
+    "the_id": 80,
+    "slug": "crimen",
+    "name": "Crimen"
+    },
+    {
+    "the_id": 99,
+    "slug": "documental",
+    "name": "Documental"
+    },
+    {
+    "the_id": 18,
+    "slug": "drama",
+    "name": "Drama"
+    },
+    {
+    "the_id": 10751,
+    "slug": "familia",
+    "name": "Familia"
+    },
+    {
+    "the_id": 14,
+    "slug": "fantasia",
+    "name": "Fantasía"
+    },
+    {
+    "the_id": 36,
+    "slug": "historia",
+    "name": "Historia"
+    },
+    {
+    "the_id": 27,
+    "slug": "terror",
+    "name": "Terror"
+    },
+    {
+    "the_id": 10402,
+    "slug": "musica",
+    "name": "Música"
+    },
+    {
+    "the_id": 9648,
+    "slug": "misterio",
+    "name": "Misterio"
+    },
+    {
+    "the_id": 10749,
+    "slug": "romance",
+    "name": "Romance"
+    },
+    {
+    "the_id": 878,
+    "slug": "ciencia-ficcion",
+    "name": "Ciencia ficción"
+    },
+    {
+    "the_id": 10770,
+    "slug": "pelicula-de-tv",
+    "name": "Película de TV"
+    },
+    {
+    "the_id": 53,
+    "slug": "Suspenso",
+    "name": "Suspenso"
+    },
+    {
+    "the_id": 10752,
+    "slug": "belica",
+    "name": "Bélica"
+    },
+    {
+    "the_id": 37,
+    "slug": "western",
+    "name": "Western"
+    }
+    ],
+    "series": [
+    {
+    "the_id": 10759,
+    "slug": "accion-aventura",
+    "name": "Action & Adventure"
+    },
+    {
+    "the_id": 16,
+    "slug": "animacion",
+    "name": "Animación"
+    },
+    {
+    "the_id": 35,
+    "slug": "comedia",
+    "name": "Comedia"
+    },
+    {
+    "the_id": 80,
+    "slug": "crimen",
+    "name": "Crimen"
+    },
+    {
+    "the_id": 99,
+    "slug": "documental",
+    "name": "Documental"
+    },
+    {
+    "the_id": 18,
+    "slug": "drama",
+    "name": "Drama"
+    },
+    {
+    "the_id": 10751,
+    "slug": "familia",
+    "name": "Familia"
+    },
+    {
+    "the_id": 10762,
+    "slug": "kids",
+    "name": "Kids"
+    },
+    {
+    "the_id": 9648,
+    "slug": "misterio",
+    "name": "Misterio"
+    },
+    {
+    "the_id": 10763,
+    "slug": "news",
+    "name": "News"
+    },
+    {
+    "the_id": 10764,
+    "slug": "reality",
+    "name": "Reality"
+    },
+    {
+    "the_id": 10765,
+    "slug": "sci-fi&fanstasy",
+    "name": "Sci-Fi & Fantasy"
+    },
+    {
+    "the_id": 10766,
+    "slug": "soap",
+    "name": "Soap"
+    },
+    {
+    "the_id": 10767,
+    "slug": "talk",
+    "name": "Talk"
+    },
+    {
+    "the_id": 10768,
+    "slug": "war-politics",
+    "name": "War & Politics"
+    },
+    {
+    "the_id": 37,
+    "slug": "western",
+    "name": "Western"
+    }
+    ],
+    "animes": [
+    {
+    "the_id": 28,
+    "slug": "accion",
+    "name": "Acción"
+    },
+    {
+    "the_id": 1,
+    "slug": "artes-marciales",
+    "name": "Artes Marciales"
+    },
+    {
+    "the_id": 12,
+    "slug": "aventura",
+    "name": "Aventuras"
+    },
+    {
+    "the_id": 3,
+    "slug": "Carreras",
+    "name": "Carreras"
+    },
+    {
+    "the_id": 878,
+    "slug": "ciencia-ficcion",
+    "name": "Ciencia Ficción"
+    },
+    {
+    "the_id": 35,
+    "slug": "comedia",
+    "name": "Comedia"
+    },
+    {
+    "the_id": 6,
+    "slug": "demencia",
+    "name": "Demencia"
+    },
+    {
+    "the_id": 7,
+    "slug": "demonios",
+    "name": "Demonios"
+    },
+    {
+    "the_id": 8,
+    "slug": "deportes",
+    "name": "Deportes"
+    },
+    {
+    "the_id": 18,
+    "slug": "drama",
+    "name": "Drama"
+    },
+    {
+    "the_id": 10,
+    "slug": "ecchi",
+    "name": "Ecchi"
+    },
+    {
+    "the_id": 11,
+    "slug": "escolares",
+    "name": "Escolares"
+    },
+    {
+    "the_id": 43,
+    "slug": "espacial",
+    "name": "Espacial"
+    },
+    {
+    "the_id": 14,
+    "slug": "fantasia",
+    "name": "Fantasía"
+    },
+    {
+    "the_id": 45,
+    "slug": "harem",
+    "name": "Harem"
+    },
+    {
+    "the_id": 15,
+    "slug": "historico",
+    "name": "Historico"
+    },
+    {
+    "the_id": 40,
+    "slug": "infantil",
+    "name": "Infantil"
+    },
+    {
+    "the_id": 17,
+    "slug": "josei",
+    "name": "Josei"
+    },
+    {
+    "the_id": 42,
+    "slug": "juegos",
+    "name": "Juegos"
+    },
+    {
+    "the_id": 19,
+    "slug": "magia",
+    "name": "Magia"
+    },
+    {
+    "the_id": 20,
+    "slug": "mecha",
+    "name": "Mecha"
+    },
+    {
+    "the_id": 21,
+    "slug": "militar",
+    "name": "Militar"
+    },
+    {
+    "the_id": 9648,
+    "slug": "misterio",
+    "name": "Misterio"
+    },
+    {
+    "the_id": 10402,
+    "slug": "musica",
+    "name": "Música"
+    },
+    {
+    "the_id": 24,
+    "slug": "parodia",
+    "name": "Parodia"
+    },
+    {
+    "the_id": 25,
+    "slug": "policia",
+    "name": "Policía"
+    },
+    {
+    "the_id": 26,
+    "slug": "psicologico",
+    "name": "Psicológico"
+    },
+    {
+    "the_id": 41,
+    "slug": "recuentos-de-la-vida",
+    "name": "Recuentos de la vida"
+    },
+    {
+    "the_id": 10749,
+    "slug": "romance",
+    "name": "Romance"
+    },
+    {
+    "the_id": 29,
+    "slug": "samurai",
+    "name": "Samurai"
+    },
+    {
+    "the_id": 30,
+    "slug": "seinen",
+    "name": "Seinen"
+    },
+    {
+    "the_id": 31,
+    "slug": "shoujo",
+    "name": "Shoujo"
+    },
+    {
+    "the_id": 32,
+    "slug": "shounen",
+    "name": "Shounen"
+    },
+    {
+    "the_id": 33,
+    "slug": "sobrenatural",
+    "name": "Sobrenatural"
+    },
+    {
+    "the_id": 34,
+    "slug": "superpoderes",
+    "name": "Superpoderes"
+    },
+    {
+    "the_id": 53,
+    "slug": "suspenso",
+    "name": "Suspenso"
+    },
+    {
+    "the_id": 27,
+    "slug": "terror",
+    "name": "Terror"
+    },
+    {
+    "the_id": 44,
+    "slug": "vampiros",
+    "name": "Vampiros"
+    },
+    {
+    "the_id": 38,
+    "slug": "yaoi",
+    "name": "Yaoi"
+    },
+    {
+    "the_id": 39,
+    "slug": "yuri",
+    "name": "Yuri"
+    }
+    ]
+    }
