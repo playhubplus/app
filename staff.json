@@ -26,5 +26,12 @@
     "username": "Juanfeik",
     "image": "https://res.cloudinary.com/dlwty0yuu/image/upload/v1612495030/staff/otroxd.png",
     "role": "Contrib"
+  },
+  {
+    "name":"Nicolas G",
+    "id":38881,
+    "username": "NickG",
+    "image": "https://res.cloudinary.com/dlwty0yuu/image/upload/v1615338271/staff/nickg.jpg",
+    "role": "Mod"
   }
 ]
