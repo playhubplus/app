@@ -14,10 +14,17 @@
     "role": "Admin"
   },
   {
-    "name": "Juan Vargas",
-    "id": 16274,
-    "username": "Meliodas2021",
-    "image": "https://res.cloudinary.com/dlwty0yuu/image/upload/v1612495030/staff/meliodas.png",
+    "name": "NickG",
+    "id": 38881,
+    "username": "@Nicogenix",
+    "image": "https://i.imgur.com/yvIPwtf.jpeg",
+    "role": "Mod"
+  },
+  {
+    "name": "Jose Rdz Bisteni",
+    "id": 3853,
+    "username": "@Joserdzb",
+    "image": "https://i.imgur.com/krbCkSu.jpeg",
     "role": "Mod"
   }
 ]
