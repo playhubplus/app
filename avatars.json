@@ -78,6 +78,36 @@
     ]
   },
   {
+    "title": "Rick y Morty",
+    "images": [
+      "https://i.imgur.com/NyZKcTM.png",
+      "https://i.imgur.com/21K0Lvl.png",
+      "https://i.imgur.com/wWnIp7m.png",
+      "https://i.imgur.com/oHJhL36.png",
+      "https://i.imgur.com/T84gBPB.png",
+      "https://i.imgur.com/KLXWgMH.png",
+      "https://i.imgur.com/vbRusAY.png",
+      "https://i.imgur.com/gYIQgBJ.png",
+      "https://i.imgur.com/DU7GBuI.png"
+    ]
+  },
+  {
+    "title": "Monster Verse",
+    "images": [
+      "https://i.imgur.com/MJFmiNj.png",
+      "https://i.imgur.com/swX27bH.png",
+      "https://i.imgur.com/wWnIp7m.png",
+      "https://i.imgur.com/zyVThdk.png",
+      "https://i.imgur.com/tjRi1tR.png",
+      "https://i.imgur.com/7u6lDHP.png",
+      "https://i.imgur.com/SZo9jaw.png",
+      "https://i.imgur.com/7FpGcW8.png",
+      "https://i.imgur.com/toSqgLn.png",
+      "https://i.imgur.com/SPPGFL8.png",
+      "https://i.imgur.com/HF1Ctmn.png"
+    ]
+  },
+  {
     "title": "7 Pecados capitales",
     "images": [
       "https://i.imgur.com/toRwnSE.jpg",
@@ -160,57 +190,6 @@
     ]
   },
   {
-    "title": "Defenders",
-    "images": [
-      "https://occ-0-1068-92.1.nflxso.net/art/02fc4/01d9f16c41442fa44d0076b8d1b6b1b7cb302fc4.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/0c07a/2793f0dcfef529e2456d6ef7f63279edd100c07a.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/c5120/e9701ef9177a7353e6ef465f9ca84f8755fc5120.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/2c36c/8623109ba7bc471ab63ca32e1d820c3806c2c36c.png"
-    ]
-  },
-  {
-    "title": "Alexa & Katie",
-    "images": [
-      "https://occ-0-1068-92.1.nflxso.net/art/f4169/e8018749642bf977f80433f7f267030495bf4169.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/4f4c8/b8c73002f0d6c017db50d479c42f11549894f4c8.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/c783d/ffa2bbfdcfa7d910e86e23c196c778bb7b7c783d.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/542a8/f73decebc2b4948aff8f4e20732efd4c7e7542a8.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/66481/c9d0048f1edf7bd5c415e676ebfce0e600166481.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/926be/ba09040133ee6b7cf27052d233b5fded361926be.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/ff99a/bc98f28ce251bf339636fb8b6cb801f59a7ff99a.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/de072/72f01e596f3a47116925fbb858e1e61af95de072.png"
-    ]
-  },
-  {
-    "title": "Money Heist",
-    "images": [
-      "https://occ-0-1068-92.1.nflxso.net/art/b56ca/a89ed6b162d3c5916a1b38ea4dac7812afcb56ca.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/77860/308f1382dc4768e75e367c79c3290db8bf477860.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/f4957/025e9706e35b97ceff4ab343ef1e0ab5ee0f4957.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/debbd/b0b40400d1fc79d3affcba2774454b6cd03debbd.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/92da5/31687dea129fb21a578977565077d44b0ca92da5.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/d375a/cd7c3adcae81f63b7c4db4fc0f36c007de0d375a.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/00334/1c203a74958851f413e99b7e68a6d387e3500334.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/8e11e/7cafcf32034f4c292574ced3e745a83d0c68e11e.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/a8148/3bf2c8889e738213673c1a77803587aedd4a8148.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/e6274/381a74c32a8b47b21797c363c544f30a158e6274.png"
-    ]
-  },
-  {
-    "title": "Lost in Space",
-    "images": [
-      "https://occ-0-1068-92.1.nflxso.net/art/5474f/5375e5c8f4c973c26c6b0124f4f3cfd07085474f.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/8ffcd/6a8becc1e21ffaf4ebccee7fa488376b7718ffcd.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/16445/a33cbd6103f53a0cc82d584dd6dd8b06a9616445.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/60542/7f2e09e397ea7a81c498a804a878c3cd62360542.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/d7843/eaec8f15795746d97d1cf39dcd81bad2bc9d7843.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/41e41/b4be26d5a621cc8554b9de07d464b99f8ff41e41.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/d2380/c742a8745f4ee7803e37094a7f5b2236e92d2380.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/2d212/690a8f9ebe7f06341f356676d11b050e4cf2d212.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/3dea4/8a4549edf9f049ee41c1de9cfda273ab7d23dea4.png"
-    ]
-  },
-  {
     "title": "A Series of Unfortunate Events",
     "images": [
       "https://occ-0-1068-92.1.nflxso.net/art/184af/f18e312f9913cad93a0910e6589a09816b8184af.png",
@@ -222,21 +201,6 @@
       "https://occ-0-1068-92.1.nflxso.net/art/5e761/64119439315b429f0500ebd7d23d8b84d685e761.png",
       "https://occ-0-1068-92.1.nflxso.net/art/164e4/4279143f6e6a8cbeb49da6c73e5c0f047fe164e4.png",
       "https://occ-0-1068-92.1.nflxso.net/art/3dcf6/5ded3d1c151ad34b5d46ae743a21491bb383dcf6.png"
-    ]
-  },
-  {
-    "title": "Orange is the New Black",
-    "images": [
-      "https://occ-0-1068-92.1.nflxso.net/art/3930f/952fed6597d2393ffdbc03d28fb26a266033930f.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/5d917/239ab959f2988b97aa20a20180ca6bb91715d917.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/ec36e/9359bb4e2c8e749d895380f32afd19bfa68ec36e.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/3bdda/c6bfa90da6756c1259156b284cabff6e5a93bdda.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/9a1a2/1b2d497a3f909e45b0cdbc08cc6d5aa1a949a1a2.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/5a069/b2b8e83faf1fb62775cfde38b3fc77e764c5a069.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/17228/a0db42c7cf49d0da85db41af251783875df17228.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/e5ab1/153732cf5c3c097fb06a368473fa275774be5ab1.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/b36e8/88c5d0a3e04a0cb72ee93c3707a558866c2b36e8.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/6c780/9d5c55bcd7e2b0d7d8279786f83c25642ac6c780.png"
     ]
   },
   {
@@ -258,20 +222,6 @@
       "https://occ-0-1068-92.1.nflxso.net/art/def27/3fe400cfc5e5050abbdca3a9ca994d2e73fdef27.png",
       "https://occ-0-1068-92.1.nflxso.net/art/40662/df5c16038a745f2b4a36acf4904b8f6abfc40662.png",
       "https://occ-0-1068-92.1.nflxso.net/art/3e8ea/64fd2f5c0fbb5e0c5348f3947e5fd6b762e3e8ea.png"
-    ]
-  },
-  {
-    "title": "Big Mouth",
-    "images": [
-      "https://occ-0-1068-92.1.nflxso.net/art/79685/dae497e4be89a70a6190bd69cd3e3764beb79685.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/b0446/64712043f61dee5014dd31595a695b5e40bb0446.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/e5a29/dde5272c0126062e8f7673dd2abab4d97e3e5a29.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/cd0ba/9a27a31fa98a49c6bc8c090b0c9134a4f2dcd0ba.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/b18c8/f129b7b2aa6987253f81fa716875e8006e3b18c8.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/a1e2e/8df363033e55d299a5472731245fc9b8548a1e2e.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/104bb/b03cce661372bfbc175b19c16e7549e2403104bb.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/614f0/2ec4f3777f897f9a231a16788f278865d30614f0.png",
-      "https://occ-0-1068-92.1.nflxso.net/art/fd14d/fd0eb7f7db42dba1e22e92d9198ce9c53c1fd14d.png"
     ]
   }
 ]
