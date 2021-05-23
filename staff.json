@@ -23,15 +23,9 @@
   {
     "name": "Jose Rdz Bisteni",
     "id": 3853,
+    "email": "saidrdzbisteni@hotmail.com",
     "username": "Joserdzb",
     "image": "https://i.imgur.com/yvIPwtf.jpeg",
-    "role": "Mod"
-  },
-  {
-    "name": "Juan Vargas",
-    "id": 73318,
-    "username": "Meliodas2021",
-    "image": "https://i.imgur.com/6TV6Yfw.jpg",
     "role": "Mod"
   },
   {
@@ -39,6 +33,20 @@
     "id": 18835,
     "username": "ViejoSabi0",
     "image": "https://i.imgur.com/14uaJh0.jpg",
-    "role": "Mod"
+    "role": "Soporte"
+  },
+  {
+    "name": "Juan Vargas",
+    "id": 73318,
+    "username": "Meliodas2021",
+    "image": "https://i.imgur.com/6TV6Yfw.jpg",
+    "role": "Editor"
+  },
+  {
+    "name": "Franky",
+    "id": 72218,
+    "username": "ivanacacio2",
+    "image": "https://i.imgur.com/JLArzRF.jpg",
+    "role": "Editor"
   }
 ]
