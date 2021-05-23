@@ -2,391 +2,314 @@
   "movies": [
     {
       "id": 28,
-      "slug": "accion",
       "name": "Acción"
     },
     {
       "id": 12,
-      "slug": "aventura",
       "name": "Aventura"
     },
     {
       "id": 16,
-      "slug": "animacion",
       "name": "Animación"
     },
     {
       "id": 35,
-      "slug": "comedia",
       "name": "Comedia"
     },
     {
       "id": 80,
-      "slug": "crimen",
       "name": "Crimen"
     },
     {
       "id": 99,
-      "slug": "documental",
       "name": "Documental"
     },
     {
       "id": 18,
-      "slug": "drama",
       "name": "Drama"
     },
     {
       "id": 600,
-      "slug": "dorama",
       "name": "Dorama"
     },
     {
       "id": 10751,
-      "slug": "familia",
       "name": "Familia"
     },
     {
       "id": 14,
-      "slug": "fantasia",
       "name": "Fantasía"
     },
     {
       "id": 36,
-      "slug": "historia",
       "name": "Historia"
     },
     {
       "id": 27,
-      "slug": "terror",
       "name": "Terror"
     },
     {
       "id": 10402,
-      "slug": "musica",
       "name": "Música"
     },
     {
       "id": 9648,
-      "slug": "misterio",
       "name": "Misterio"
     },
     {
       "id": 10749,
-      "slug": "romance",
       "name": "Romance"
     },
     {
       "id": 878,
-      "slug": "ciencia-ficcion",
       "name": "Ciencia ficción"
     },
     {
       "id": 10770,
-      "slug": "pelicula-de-tv",
       "name": "Película de TV"
     },
     {
       "id": 53,
-      "slug": "Suspenso",
       "name": "Suspenso"
     },
     {
       "id": 10752,
-      "slug": "belica",
       "name": "Bélica"
     },
     {
       "id": 37,
-      "slug": "western",
       "name": "Western"
     }
   ],
   "series": [
     {
       "id": 10759,
-      "slug": "accion-aventura",
       "name": "Action & Adventure"
     },
     {
       "id": 16,
-      "slug": "animacion",
       "name": "Animación"
     },
     {
       "id": 35,
-      "slug": "comedia",
       "name": "Comedia"
     },
     {
       "id": 600,
-      "slug": "dorama",
       "name": "Dorama"
     },
     {
       "id": 80,
-      "slug": "crimen",
       "name": "Crimen"
     },
     {
       "id": 99,
-      "slug": "documental",
       "name": "Documental"
     },
     {
       "id": 18,
-      "slug": "drama",
       "name": "Drama"
     },
     {
       "id": 10751,
-      "slug": "familia",
       "name": "Familia"
     },
     {
       "id": 10762,
-      "slug": "kids",
       "name": "Kids"
     },
     {
       "id": 9648,
-      "slug": "misterio",
       "name": "Misterio"
     },
     {
       "id": 10763,
-      "slug": "news",
       "name": "News"
     },
     {
       "id": 10764,
-      "slug": "reality",
       "name": "Reality"
     },
     {
       "id": 10765,
-      "slug": "sci-fi&fanstasy",
       "name": "Sci-Fi & Fantasy"
     },
     {
       "id": 10766,
-      "slug": "soap",
       "name": "Soap"
     },
     {
       "id": 10767,
-      "slug": "talk",
       "name": "Talk"
     },
     {
       "id": 10768,
-      "slug": "war-politics",
       "name": "War & Politics"
     },
     {
       "id": 37,
-      "slug": "western",
       "name": "Western"
     }
   ],
   "animes": [
     {
       "id": 28,
-      "slug": "accion",
       "name": "Acción"
     },
     {
       "id": 1,
-      "slug": "artes-marciales",
       "name": "Artes Marciales"
     },
     {
       "id": 12,
-      "slug": "aventura",
       "name": "Aventuras"
     },
     {
       "id": 3,
-      "slug": "Carreras",
       "name": "Carreras"
     },
     {
       "id": 878,
-      "slug": "ciencia-ficcion",
       "name": "Ciencia Ficción"
     },
     {
       "id": 35,
-      "slug": "comedia",
       "name": "Comedia"
     },
     {
       "id": 6,
-      "slug": "demencia",
       "name": "Demencia"
     },
     {
       "id": 7,
-      "slug": "demonios",
       "name": "Demonios"
     },
     {
       "id": 8,
-      "slug": "deportes",
       "name": "Deportes"
     },
     {
       "id": 18,
-      "slug": "drama",
       "name": "Drama"
     },
     {
       "id": 10,
-      "slug": "ecchi",
       "name": "Ecchi"
     },
     {
       "id": 11,
-      "slug": "escolares",
       "name": "Escolares"
     },
     {
       "id": 43,
-      "slug": "espacial",
       "name": "Espacial"
     },
     {
       "id": 14,
-      "slug": "fantasia",
       "name": "Fantasía"
     },
     {
       "id": 45,
-      "slug": "harem",
       "name": "Harem"
     },
     {
       "id": 15,
-      "slug": "historico",
       "name": "Historico"
     },
     {
       "id": 40,
-      "slug": "infantil",
       "name": "Infantil"
     },
     {
       "id": 17,
-      "slug": "josei",
       "name": "Josei"
     },
     {
       "id": 42,
-      "slug": "juegos",
       "name": "Juegos"
     },
     {
       "id": 19,
-      "slug": "magia",
       "name": "Magia"
     },
     {
       "id": 20,
-      "slug": "mecha",
       "name": "Mecha"
     },
     {
       "id": 21,
-      "slug": "militar",
       "name": "Militar"
     },
     {
       "id": 9648,
-      "slug": "misterio",
       "name": "Misterio"
     },
     {
       "id": 10402,
-      "slug": "musica",
       "name": "Música"
     },
     {
       "id": 24,
-      "slug": "parodia",
       "name": "Parodia"
     },
     {
       "id": 25,
-      "slug": "policia",
       "name": "Policía"
     },
     {
       "id": 26,
-      "slug": "psicologico",
       "name": "Psicológico"
     },
     {
       "id": 41,
-      "slug": "recuentos-de-la-vida",
       "name": "Recuentos de la vida"
     },
     {
       "id": 10749,
-      "slug": "romance",
       "name": "Romance"
     },
     {
       "id": 29,
-      "slug": "samurai",
       "name": "Samurai"
     },
     {
       "id": 30,
-      "slug": "seinen",
       "name": "Seinen"
     },
     {
       "id": 31,
-      "slug": "shoujo",
       "name": "Shoujo"
     },
     {
       "id": 32,
-      "slug": "shounen",
       "name": "Shounen"
     },
     {
       "id": 33,
-      "slug": "sobrenatural",
       "name": "Sobrenatural"
     },
     {
       "id": 34,
-      "slug": "superpoderes",
       "name": "Superpoderes"
     },
     {
       "id": 53,
-      "slug": "suspenso",
       "name": "Suspenso"
     },
     {
       "id": 27,
-      "slug": "terror",
       "name": "Terror"
     },
     {
       "id": 44,
-      "slug": "vampiros",
       "name": "Vampiros"
     },
     {
       "id": 38,
-      "slug": "yaoi",
       "name": "Yaoi"
     },
     {
       "id": 39,
-      "slug": "yuri",
       "name": "Yuri"
     }
   ]
