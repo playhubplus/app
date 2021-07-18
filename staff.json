@@ -4,21 +4,21 @@
     "name": "Will Salas",
     "username": "willsalasare",
     "image": "https://res.cloudinary.com/dlwty0yuu/image/upload/v1612495030/staff/rick.png",
-    "role": "Dev"
+    "role": "Admin"
   },
   {
     "name": "Victor Zelada",
     "id": 3098,
     "username": "ZvictorZ69",
     "image": "https://res.cloudinary.com/dlwty0yuu/image/upload/v1612495030/staff/morty.png",
-    "role": "Admin"
+    "role": "Super"
   },
   {
     "name": "NickG",
     "id": 38881,
     "username": "Nicogenix",
     "image": "https://i.imgur.com/krbCkSu.jpeg",
-    "role": "Mod"
+    "role": "Super"
   },
   {
     "name": "Jose Rdz Bisteni",
@@ -27,19 +27,5 @@
     "username": "Joserdzb",
     "image": "https://i.imgur.com/yvIPwtf.jpeg",
     "role": "Mod"
-  },
-  {
-    "name": "Benedicto Donato",
-    "id": 18835,
-    "username": "ViejoSabi0",
-    "image": "https://i.imgur.com/TXdKUoC.jpg",
-    "role": "Soporte"
-  },
-  {
-    "name": "Franky",
-    "id": 72218,
-    "username": "ivanacacio2",
-    "image": "https://i.imgur.com/JLArzRF.jpg",
-    "role": "Editor"
   }
 ]
