@@ -146,163 +146,203 @@
   "animes": [
     {
       "id": 28,
-      "name": "Acción"
+      "name": "Acción",
+      "slug": "accion"
     },
     {
       "id": 1,
-      "name": "Artes Marciales"
+      "name": "Artes Marciales",
+      "slug": "artes-marciales"
     },
     {
       "id": 12,
-      "name": "Aventuras"
+      "name": "Aventuras",
+      "slug": "aventura"
     },
     {
       "id": 3,
-      "name": "Carreras"
+      "name": "Carreras",
+      "slug": "carreras"
     },
     {
       "id": 878,
-      "name": "Ciencia Ficción"
+      "name": "Ciencia Ficción",
+      "slug": "ciencia-ficcion"
     },
     {
       "id": 35,
-      "name": "Comedia"
+      "name": "Comedia",
+      "slug": "comedia"
     },
     {
       "id": 6,
-      "name": "Demencia"
+      "name": "Demencia",
+      "slug": "demencia"
     },
     {
       "id": 7,
-      "name": "Demonios"
+      "name": "Demonios",
+      "slug": "demonios"
     },
     {
       "id": 8,
-      "name": "Deportes"
+      "name": "Deportes",
+      "slug": "deportes"
     },
     {
       "id": 18,
-      "name": "Drama"
+      "name": "Drama",
+      "slug": "drama"
     },
     {
       "id": 10,
-      "name": "Ecchi"
+      "name": "Ecchi",
+      "slug": "ecchi"
     },
     {
       "id": 11,
-      "name": "Escolares"
+      "name": "Escolares",
+      "slug": "escolares"
     },
     {
       "id": 43,
-      "name": "Espacial"
+      "name": "Espacial",
+      "slug": "espacial"
     },
     {
       "id": 14,
-      "name": "Fantasía"
+      "name": "Fantasía",
+      "slug": "fantasia"
     },
     {
       "id": 45,
-      "name": "Harem"
+      "name": "Harem",
+      "slug": "harem"
     },
     {
       "id": 15,
-      "name": "Historico"
+      "name": "Historico",
+      "slug": "historico"
     },
     {
       "id": 40,
-      "name": "Infantil"
+      "name": "Infantil",
+      "slug": "infantil"
     },
     {
       "id": 17,
-      "name": "Josei"
+      "name": "Josei",
+      "slug": "josei"
     },
     {
       "id": 42,
-      "name": "Juegos"
+      "name": "Juegos",
+      "slug": "juegos"
     },
     {
       "id": 19,
-      "name": "Magia"
+      "name": "Magia",
+      "slug": "magia"
     },
     {
       "id": 20,
-      "name": "Mecha"
+      "name": "Mecha",
+      "slug": "mecha"
     },
     {
       "id": 21,
-      "name": "Militar"
+      "name": "Militar",
+      "slug": "militar"
     },
     {
       "id": 9648,
-      "name": "Misterio"
+      "name": "Misterio",
+      "slug": "misterio"
     },
     {
       "id": 10402,
-      "name": "Música"
+      "name": "Música",
+      "slug": "musica"
     },
     {
       "id": 24,
-      "name": "Parodia"
+      "name": "Parodia",
+      "slug": "parodia"
     },
     {
       "id": 25,
-      "name": "Policía"
+      "name": "Policía",
+      "slug": "policia"
     },
     {
       "id": 26,
-      "name": "Psicológico"
+      "name": "Psicológico",
+      "slug": "psicologico"
     },
     {
       "id": 41,
-      "name": "Recuentos de la vida"
+      "name": "Recuentos de la vida",
+      "slug": "recuentos-de-la-vida"
     },
     {
       "id": 10749,
-      "name": "Romance"
+      "name": "Romance",
+      "slug": "romance"
     },
     {
       "id": 29,
-      "name": "Samurai"
+      "name": "Samurai",
+      "slug": "samurai"
     },
     {
       "id": 30,
-      "name": "Seinen"
+      "name": "Seinen",
+      "slug": "seinen"
     },
     {
       "id": 31,
-      "name": "Shoujo"
+      "name": "Shoujo",
+      "slug": "shoujo"
     },
     {
       "id": 32,
-      "name": "Shounen"
+      "name": "Shounen",
+      "slug": "shounen"
     },
     {
       "id": 33,
-      "name": "Sobrenatural"
+      "name": "Sobrenatural",
+      "slug": "sobrenatural"
     },
     {
       "id": 34,
-      "name": "Superpoderes"
+      "name": "Superpoderes",
+      "slug": "superpoderes"
     },
     {
       "id": 53,
-      "name": "Suspenso"
+      "name": "Suspenso",
+      "slug": "suspenso"
     },
     {
       "id": 27,
-      "name": "Terror"
+      "name": "Terror",
+      "slug": "terror"
     },
     {
       "id": 44,
-      "name": "Vampiros"
+      "name": "Vampiros",
+      "slug": "vampiros"
     },
     {
       "id": 38,
-      "name": "Yaoi"
+      "name": "Yaoi",
+      "slug": "yaoi"
     },
     {
       "id": 39,
-      "name": "Yuri"
+      "name": "Yuri",
+      "slug": "yuri"
     }
   ]
 }
