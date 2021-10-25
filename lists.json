@@ -1,0 +1,19 @@
+{
+   "paths":[
+      {
+         "index":0,
+         "title":"Especial Halloween 🎃",
+         "path":"/list/7111759"
+      },
+      {
+         "index":1,
+         "title":"Películas populares",
+         "path":"/movie"
+      },
+      {
+         "index":3,
+         "title":"Series populares",
+         "path":"/tv"
+      }
+   ]
+}
