@@ -7,11 +7,16 @@
       },
       {
          "index":1,
+         "title":"Películas de los 70/90 📺",
+         "path":"/list/7111923"
+      },
+      {
+         "index":2,
          "title":"Películas populares",
          "path":"/movie"
       },
       {
-         "index":3,
+         "index":4,
          "title":"Series populares",
          "path":"/tv"
       }
