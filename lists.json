@@ -13,12 +13,12 @@
       {
          "index":2,
          "title":"Películas populares",
-         "path":"/movie?sort_by=primary_release_date.desc"
+         "path":"/movie"
       },
       {
          "index":4,
          "title":"Series populares",
-         "path":"/tv?sort_by=primary_release_date.desc"
+         "path":"/tv"
       }
    ]
 }
