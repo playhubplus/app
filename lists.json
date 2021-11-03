@@ -1,24 +1,30 @@
 {
-   "paths":[
+   "paths": [
       {
-         "index":0,
-         "title":"Especial Halloween 🎃",
-         "path":"/list/7111759?sort_by=primary_release_date.desc"
+         "index": 0,
+         "title": "Especial Halloween 🎃",
+         "path": "/list/7111759",
+         "filter": {
+            "sort_by": "primary_release_date.desc"
+         }
       },
       {
-         "index":1,
-         "title":"Películas de los 70/90 📺",
-         "path":"/list/7111923?sort_by=primary_release_date.desc"
+         "index": 1,
+         "title": "Películas de los 70/90 📺",
+         "path": "/list/7111923",
+         "filter": {
+            "sort_by": "primary_release_date.desc"
+         }
       },
       {
-         "index":2,
-         "title":"Películas populares",
-         "path":"/movie"
+         "index": 2,
+         "title": "Películas populares",
+         "path": "/movie"
       },
       {
-         "index":4,
-         "title":"Series populares",
-         "path":"/tv"
+         "index": 4,
+         "title": "Series populares",
+         "path": "/tv"
       }
    ]
 }
