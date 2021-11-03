@@ -3,22 +3,22 @@
       {
          "index":0,
          "title":"Especial Halloween 🎃",
-         "path":"/list/7111759"
+         "path":"/list/7111759?sort_by=primary_release_date.desc"
       },
       {
          "index":1,
          "title":"Películas de los 70/90 📺",
-         "path":"/list/7111923"
+         "path":"/list/7111923?sort_by=primary_release_date.desc"
       },
       {
          "index":2,
          "title":"Películas populares",
-         "path":"/movie"
+         "path":"/movie?sort_by=primary_release_date.desc"
       },
       {
          "index":4,
          "title":"Series populares",
-         "path":"/tv"
+         "path":"/tv?sort_by=primary_release_date.desc"
       }
    ]
 }
