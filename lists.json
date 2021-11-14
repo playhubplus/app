@@ -25,6 +25,11 @@
          "index": 4,
          "title": "Series populares",
          "path": "/tv"
+      },
+      {
+         "index": 6,
+         "title": "Novelas Estreno",
+         "path": "/list/7113370"
       }
    ]
 }
