@@ -1,950 +1,901 @@
 {
     "avatars": [
         {
-            "title": "Altered Carbon",
-            "image": "https://i.imgur.com/6CV6SCQ.png",
+            "title": "Doctor Strange in the Multiverse of Madness",
+            "image": "https://i.imgur.com/r9vwg6Q.png",
             "avatars": [
-                "https://i.imgur.com/UmIbVgq.png",
-                "https://i.imgur.com/jhLPT8y.png",
-                "https://i.imgur.com/TKcKNA1.png",
-                "https://i.imgur.com/kcN30U3.png",
-                "https://i.imgur.com/G6p6oss.png",
-                "https://i.imgur.com/vhFfyYR.png",
-                "https://i.imgur.com/v6xP1i7.png"
-            ]
-        },
-        {
-            "title": "Arcane",
-            "image": "https://i.imgur.com/n92N1jV.png",
-            "avatars": [
-                "https://i.imgur.com/6jsGHF6.png",
-                "https://i.imgur.com/Man28us.png",
-                "https://i.imgur.com/kMsDhil.png",
-                "https://i.imgur.com/jiEddF5.png",
-                "https://i.imgur.com/26FR1UN.png",
-                "https://i.imgur.com/YmGmoXD.png",
-                "https://i.imgur.com/TfOI5LD.png"
-            ]
-        },
-        {
-            "title": "El pacificador",
-            "image": "https://i.imgur.com/KokH9ol.png",
-            "avatars": [
-                "https://i.imgur.com/mnMqNni.png",
-                "https://i.imgur.com/P7CAn07.png",
-                "https://i.imgur.com/cqytRpm.png",
-                "https://i.imgur.com/Y7UkKfn.png",
-                "https://i.imgur.com/mqPLHK6.png",
-                "https://i.imgur.com/R20neDj.png"
-            ]
-        },
-        {
-            "title": "Escuadron Suicida",
-            "image": "https://i.imgur.com/Slmxsun.png",
-            "avatars": [
-                "https://i.imgur.com/Ahwvu70.png",
-                "https://i.imgur.com/aKW8WJT.png",
-                "https://i.imgur.com/kjFvvSH.png",
-                "https://i.imgur.com/l4M9oBf.png",
-                "https://i.imgur.com/FPSVKG5.png",
-                "https://i.imgur.com/32whRyp.png",
-                "https://i.imgur.com/DIOW3CN.png",
-                "https://i.imgur.com/cDFUn1e.png",
-                "https://i.imgur.com/O1j8DPx.png",
-                "https://i.imgur.com/C8EnUf0.png",
-                "https://i.imgur.com/d5L6Klz.png",
-                "https://i.imgur.com/kmYgY0G.png"
-            ]
-        },
-        {
-            "title": "Hawkaye",
-            "image": "https://i.imgur.com/YZPnC7w.png",
-            "avatars": [
-                "https://i.imgur.com/HSm9NBH.png",
-                "https://i.imgur.com/ZtEPB1Y.png",
-                "https://i.imgur.com/5MgXDxO.png",
-                "https://i.imgur.com/9KxoPxn.png",
-                "https://i.imgur.com/JqW6HT6.png",
-                "https://i.imgur.com/JLqlFTj.png",
-                "https://i.imgur.com/OCmk3oL.png",
-                "https://i.imgur.com/0xmMuL2.png",
-                "https://i.imgur.com/x4BpwTa.png",
-                "https://i.imgur.com/2FJvZ1H.png"
-            ]
-        },
-        {
-            "title": "La liga de la justicia de Zack",
-            "image": "https://i.imgur.com/QPm5OLz.png",
-            "avatars": [
-                "https://i.imgur.com/9jFPARa.png",
-                "https://i.imgur.com/A6TyXPU.png",
-                "https://i.imgur.com/WsqbFoP.png",
-                "https://i.imgur.com/olmEO1h.png",
-                "https://i.imgur.com/6evveAw.png",
-                "https://i.imgur.com/RPWiSFI.png",
-                "https://i.imgur.com/3oGRK7j.png"
-            ]
-        },
-        {
-            "title": "Los simpson",
-            "image": "https://i.imgur.com/y4x4cTz.png",
-            "avatars": [
-                "https://i.imgur.com/MskEA6r.png",
-                "https://i.imgur.com/BLVKSoh.png",
-                "https://i.imgur.com/Il7BkvS.png",
-                "https://i.imgur.com/Zm9ejUq.png",
-                "https://i.imgur.com/FRP4YCy.png",
-                "https://i.imgur.com/h9MP4BW.png",
-                "https://i.imgur.com/PV9fOJk.png",
-                "https://i.imgur.com/Yu8hBrl.png",
-                "https://i.imgur.com/kSVm1g2.png",
-                "https://i.imgur.com/ApWC4Yl.png",
-                "https://i.imgur.com/3VfgTEo.png"
-            ]
-        },
-        {
-            "title": "Moana",
-            "image": "https://i.imgur.com/LLOjC48.png",
-            "avatars": [
-                "https://i.imgur.com/X9Ep43T.png",
-                "https://i.imgur.com/xyys1iF.png"
-            ]
-        },
-        {
-            "title": "Mortal Kombat",
-            "image": "https://i.imgur.com/5Fuktj9.png",
-            "avatars": [
-                "https://i.imgur.com/SeSDBqg.png",
-                "https://i.imgur.com/dNVLdoq.png",
-                "https://i.imgur.com/DyYzO4g.png",
-                "https://i.imgur.com/fNWlkZV.png",
-                "https://i.imgur.com/GzGPukS.png",
-                "https://i.imgur.com/T6eCOwi.png",
-                "https://i.imgur.com/6F58CW5.png",
-                "https://i.imgur.com/gShh24K.png",
-                "https://i.imgur.com/gx8Z0bD.png",
-                "https://i.imgur.com/wZ0Dqm3.png",
-                "https://i.imgur.com/j1noXZ6.png",
-                "https://i.imgur.com/7IgQOtQ.png"
-            ]
-        },
-        {
-            "title": "Raya y el ultimo dragon",
-            "image": "https://i.imgur.com/CAxvPft.png",
-            "avatars": [
-                "https://i.imgur.com/78r2Vm3.png",
-                "https://i.imgur.com/9xgnl93.png"
-            ]
-        },
-        {
-            "title": "Resident evil Bienvenidos a Racoon city",
-            "image": "https://i.imgur.com/S0I1Wtb.png",
-            "avatars": [
-                "https://i.imgur.com/oDQROg0.png",
-                "https://i.imgur.com/a37Sx18.png",
-                "https://i.imgur.com/t3ZMSSu.png",
-                "https://i.imgur.com/y3s2qJQ.png",
-                "https://i.imgur.com/oHGM3JZ.png"
-            ]
-        },
-        {
-            "title": "Scott Pilgrim vs",
-            "image": "https://i.imgur.com/Mcvb49V.png",
-            "avatars": [
-                "https://i.imgur.com/sMdsnuC.png",
-                "https://i.imgur.com/AUz4jX4.png",
-                "https://i.imgur.com/qp0kS5K.png",
-                "https://i.imgur.com/ZSYwmq7.png",
-                "https://i.imgur.com/HBdmufk.png",
-                "https://i.imgur.com/3VvQ0gO.png",
-                "https://i.imgur.com/ofy4eDF.png"
-            ]
-        },
-        {
-            "title": "Spiderman No way home",
-            "image": "https://i.imgur.com/6TsToWM.png",
-            "avatars": [
-                "https://i.imgur.com/9DhpFzh.png",
-                "https://i.imgur.com/neTX2Qz.png",
-                "https://i.imgur.com/DZhyUgd.png",
-                "https://i.imgur.com/yltFm7x.png",
-                "https://i.imgur.com/Ne23eSz.png",
-                "https://i.imgur.com/IGYIHMZ.png",
-                "https://i.imgur.com/25okyHG.png",
-                "https://i.imgur.com/9zCL0lF.png",
-                "https://i.imgur.com/DPiUXi4.png",
-                "https://i.imgur.com/1usf56v.png"
-            ]
-        },
-        {
-            "title": "The Batman",
-            "image": "https://i.imgur.com/y7un9PP.png",
-            "avatars": [
-                "https://i.imgur.com/wDm9dwP.png",
-                "https://i.imgur.com/LTCK3a3.png",
-                "https://i.imgur.com/Uy6HHRp.png",
-                "https://i.imgur.com/utmqxCT.png"
-            ]
-        },
-        {
-            "title": "The Witcher",
-            "image": "https://i.imgur.com/kwPVBOO.png",
-            "avatars": [
-                "https://i.imgur.com/LRNHd2C.png",
-                "https://i.imgur.com/7Trzxoa.png",
-                "https://i.imgur.com/T7Fa24Z.png"
-            ]
-        },
-        {
-            "title": "Venom",
-            "image": "https://i.imgur.com/WQWxlv3.png",
-            "avatars": [
-                "https://i.imgur.com/Xa7ue0P.png",
-                "https://i.imgur.com/8eFgG69.png",
-                "https://i.imgur.com/kZHX4Ae.png",
-                "https://i.imgur.com/hbEALRK.png",
-                "https://i.imgur.com/ar39BOH.png",
-                "https://i.imgur.com/TcDwrxD.png"
-            ]
-        },
-        {
-            "title": "Siete Pecados",
-            "image": "https://i.imgur.com/TzIzxD4.png",
-            "avatars": [
-                "https://i.imgur.com/8JG0QBE.png",
-                "https://i.imgur.com/imuV688.png",
-                "https://i.imgur.com/WKIAE42.png",
-                "https://i.imgur.com/teN9Jre.png",
-                "https://i.imgur.com/XwyPA0s.png",
-                "https://i.imgur.com/SxJBgBj.png",
-                "https://i.imgur.com/ckeeYAQ.png",
-                "https://i.imgur.com/HW44KE3.png"
-            ]
-        },
-        {
-            "title": "Aladdin",
-            "image": "https://i.imgur.com/STgKWuj.png",
-            "avatars": [
-                "https://i.imgur.com/5tnj0HN.png",
-                "https://i.imgur.com/SE3bhfb.png",
-                "https://i.imgur.com/oI57Io3.png",
-                "https://i.imgur.com/M0JUj3O.png"
-            ]
-        },
-        {
-            "title": "Black Widow",
-            "image": "https://i.imgur.com/d0oxeRX.png",
-            "avatars": [
-                "https://i.imgur.com/q2ljFy8.png",
-                "https://i.imgur.com/BanrGIP.png",
-                "https://i.imgur.com/shAHcgv.png",
-                "https://i.imgur.com/aBdLiMu.png",
-                "https://i.imgur.com/vGQ3e3x.png",
-                "https://i.imgur.com/3RATrd8.png"
-            ]
-        },
-        {
-            "title": "Breaking Bad",
-            "image": "https://i.imgur.com/0FT1Vt8.png",
-            "avatars": [
-                "https://i.imgur.com/xwc4mbv.png",
-                "https://i.imgur.com/1F5ap8Q.png",
-                "https://i.imgur.com/ck7upLx.png",
-                "https://i.imgur.com/j4MLEQH.png",
-                "https://i.imgur.com/MHzff9S.png"
-            ]
-        },
-        {
-            "title": "Dragon Ball Super",
-            "image": "https://i.imgur.com/aBAnfn4.png",
-            "avatars": [
-                "https://i.imgur.com/fopPon6.png",
-                "https://i.imgur.com/tXjjSLl.png",
-                "https://i.imgur.com/Xqg7hM8.png",
-                "https://i.imgur.com/JPawgsW.png",
-                "https://i.imgur.com/yqtfpxp.png",
-                "https://i.imgur.com/HtBxiFf.png",
-                "https://i.imgur.com/qfmZS1x.png",
-                "https://i.imgur.com/sqzVXgi.png",
-                "https://i.imgur.com/yOcA7Xr.png",
-                "https://i.imgur.com/fPhdFiC.png",
-                "https://i.imgur.com/zgsu6oC.png",
-                "https://i.imgur.com/tTCgBdv.png",
-                "https://i.imgur.com/fEnJHNh.png",
-                "https://i.imgur.com/m2WhphB.png",
-                "https://i.imgur.com/FkosHKi.png",
-                "https://i.imgur.com/kcp7hse.png"
-            ]
-        },
-        {
-            "title": "Dragon Ball Z",
-            "image": "https://i.imgur.com/gGKhplv.png",
-            "avatars": [
-                "https://i.imgur.com/LFmPDNU.png",
-                "https://i.imgur.com/LsmKk3b.png",
-                "https://i.imgur.com/XkbAnqv.png",
-                "https://i.imgur.com/4ee2kFA.png",
-                "https://i.imgur.com/Bw0XhDC.png",
-                "https://i.imgur.com/0IfmHAB.png",
-                "https://i.imgur.com/SfB9RRZ.png",
-                "https://i.imgur.com/P8bVweL.png",
-                "https://i.imgur.com/QypzvNo.png",
-                "https://i.imgur.com/iXCppiF.png",
-                "https://i.imgur.com/08NQWd2.png",
-                "https://i.imgur.com/gjbB6qD.png",
-                "https://i.imgur.com/o5PMe0T.png",
-                "https://i.imgur.com/p0H4iDc.png",
-                "https://i.imgur.com/AZnuQQ1.png"
-            ]
-        },
-        {
-            "title": "Falcon Y El Soldado De Invierno",
-            "image": "https://i.imgur.com/bF0Blim.png",
-            "avatars": [
-                "https://i.imgur.com/Kk6UXHc.png",
-                "https://i.imgur.com/G9xaI33.png",
-                "https://i.imgur.com/lzrUweg.png",
-                "https://i.imgur.com/Sq5u4sz.png",
-                "https://i.imgur.com/B7fbYjC.png",
-                "https://i.imgur.com/qVdmSnu.png",
-                "https://i.imgur.com/85Jfywg.png",
-                "https://i.imgur.com/FkGYBTU.png"
-            ]
-        },
-        {
-            "title": "Fear The Walking Dead",
-            "image": "https://i.imgur.com/gNWYEiG.png",
-            "avatars": [
-                "https://i.imgur.com/gvjz8oF.png",
-                "https://i.imgur.com/8sTANFo.png",
-                "https://i.imgur.com/tgBJnt4.png",
-                "https://i.imgur.com/JNPxqdG.png",
-                "https://i.imgur.com/96uF7Gq.png",
-                "https://i.imgur.com/u4fYiOz.png",
-                "https://i.imgur.com/kbkEQ1e.png",
-                "https://i.imgur.com/mCn5UXY.png",
-                "https://i.imgur.com/TFXUDcB.png",
-                "https://i.imgur.com/CmJ31mE.png",
-                "https://i.imgur.com/5XG68gA.png",
-                "https://i.imgur.com/GvzGath.png",
-                "https://i.imgur.com/PwM4wLz.png"
-            ]
-        },
-        {
-            "title": "Invencible",
-            "image": "https://i.imgur.com/CkXAMm0.png",
-            "avatars": [
-                "https://i.imgur.com/GuqkS3a.png",
-                "https://i.imgur.com/4a2EG3R.png",
-                "https://i.imgur.com/zdP1d1Q.png",
-                "https://i.imgur.com/7bFXtrA.png",
-                "https://i.imgur.com/VMxrLcS.png"
-            ]
-        },
-        {
-            "title": "Logo",
-            "image": "https://i.imgur.com/nIESMED.png",
-            "avatars": [
-                "https://i.imgur.com/uaAxqE6.png",
-                "https://i.imgur.com/CgCR7WZ.png",
-                "https://i.imgur.com/64ozQ8E.png",
-                "https://i.imgur.com/31NtT0P.png",
-                "https://i.imgur.com/COp456b.png",
-                "https://i.imgur.com/JRtjyuQ.png",
-                "https://i.imgur.com/SWydIWp.png",
-                "https://i.imgur.com/y31gKrM.png",
-                "https://i.imgur.com/ilnBZCa.png",
-                "https://i.imgur.com/lKjIUqT.png",
-                "https://i.imgur.com/cHkr7Us.png",
-                "https://i.imgur.com/YB9rDpA.png",
-                "https://i.imgur.com/pvP3vCq.png",
-                "https://i.imgur.com/aKUGGuI.png",
-                "https://i.imgur.com/0j4EArU.png",
-                "https://i.imgur.com/TCY6jFE.png",
-                "https://i.imgur.com/kOTD66t.png",
-                "https://i.imgur.com/dkOgoE2.png",
-                "https://i.imgur.com/6IFjYBi.png",
-                "https://i.imgur.com/qr8vV40.png",
-                "https://i.imgur.com/ucmI05V.png",
-                "https://i.imgur.com/Nc3R4CT.png",
-                "https://i.imgur.com/0uqRd22.png",
-                "https://i.imgur.com/2av5OtL.png",
-                "https://i.imgur.com/UWueoRi.png",
-                "https://i.imgur.com/U0O0w2G.png",
-                "https://i.imgur.com/lVj2UYz.png"
-            ]
-        },
-        {
-            "title": "Logo",
-            "image": "https://i.imgur.com/lOvKkll.png",
-            "avatars": [
-                "https://i.imgur.com/bv2cEzK.png",
-                "https://i.imgur.com/iTVKLqn.png",
-                "https://i.imgur.com/7TPx3Kj.png",
-                "https://i.imgur.com/4I2skYq.png",
-                "https://i.imgur.com/7uqYdyv.png",
-                "https://i.imgur.com/ckP7Zp4.png",
-                "https://i.imgur.com/5XShRMW.png",
-                "https://i.imgur.com/3jJZRPR.png",
-                "https://i.imgur.com/7s3EIVw.png",
-                "https://i.imgur.com/tSo16i9.png",
-                "https://i.imgur.com/daQtfvL.png",
-                "https://i.imgur.com/w4CCsbO.png",
-                "https://i.imgur.com/BCILwHm.png",
-                "https://i.imgur.com/2bVXH5R.png",
-                "https://i.imgur.com/tPs3hIo.png",
-                "https://i.imgur.com/6BSvfdG.png",
-                "https://i.imgur.com/5DL4OK2.png",
-                "https://i.imgur.com/UW6zUWU.png",
-                "https://i.imgur.com/dFxCFSK.png",
-                "https://i.imgur.com/nR6WVf0.png",
-                "https://i.imgur.com/0pa0X8t.jpeg",
-                "https://i.imgur.com/gy3hjWy.jpeg",
-                "https://i.imgur.com/CObBGCM.jpeg",
-                "https://i.imgur.com/xEU6rgc.jpeg",
-                "https://i.imgur.com/2Dm1V8i.jpeg",
-                "https://i.imgur.com/NdHge96.jpeg",
-                "https://i.imgur.com/N5RZrWd.jpeg",
-                "https://i.imgur.com/XbbNDKr.png",
-                "https://i.imgur.com/ezT8SGJ.png",
-                "https://i.imgur.com/A1CaJAc.png",
-                "https://i.imgur.com/qxKlDB8.png",
-                "https://i.imgur.com/444a5kV.png",
-                "https://i.imgur.com/KvwyR7x.png",
-                "https://i.imgur.com/VuzeA6y.png",
-                "https://i.imgur.com/zMvcyur.png",
-                "https://i.imgur.com/dKD6Vg5.png",
-                "https://i.imgur.com/lVBcKY0.png",
-                "https://i.imgur.com/Rg5xvg0.png"
-            ]
-        },
-        {
-            "title": "Loki",
-            "image": "https://i.imgur.com/7nzELa3.png",
-            "avatars": [
-                "https://i.imgur.com/Jm44mNB.png",
-                "https://i.imgur.com/FVxgtLP.png",
-                "https://i.imgur.com/Cu0ktBd.png",
-                "https://i.imgur.com/QbcqSSi.png",
-                "https://i.imgur.com/ogzJ7Kq.png",
-                "https://i.imgur.com/ZT7HFSX.png",
-                "https://i.imgur.com/aQ41Oks.png",
-                "https://i.imgur.com/eSu8auS.png",
-                "https://i.imgur.com/M3DGyay.png",
-                "https://i.imgur.com/7nfDVaE.png",
-                "https://i.imgur.com/bAbiQDW.png"
-            ]
-        },
-        {
-            "title": "Naruto",
-            "image": "https://i.imgur.com/95jjQZo.png",
-            "avatars": [
-                "https://i.imgur.com/776Ssdv.jpeg",
-                "https://i.imgur.com/Y4ecc2D.jpeg",
-                "https://i.imgur.com/LxZaISi.jpeg",
-                "https://i.imgur.com/970fZs9.jpeg",
-                "https://i.imgur.com/s2hW7LV.jpeg",
-                "https://i.imgur.com/izTgk3t.jpeg",
-                "https://i.imgur.com/bJ7kaBE.jpeg",
-                "https://i.imgur.com/C28HXNA.jpeg",
-                "https://i.imgur.com/LI1X83C.jpeg",
-                "https://i.imgur.com/EebRZHB.jpeg",
-                "https://i.imgur.com/2ji45Cs.jpeg",
-                "https://i.imgur.com/9j5ejrD.jpeg",
-                "https://i.imgur.com/ZDqqsYf.jpeg",
-                "https://i.imgur.com/2l04KDA.jpeg",
-                "https://i.imgur.com/KSnj2Zq.jpeg"
-            ]
-        },
-        {
-            "title": "Rick Y Morty",
-            "image": "https://i.imgur.com/iuPB1OU.png",
-            "avatars": [
-                "https://i.imgur.com/jPgc5ad.png",
-                "https://i.imgur.com/F1LlYIl.png",
-                "https://i.imgur.com/5qzEvuD.png",
-                "https://i.imgur.com/lM4NhCn.png",
-                "https://i.imgur.com/Dk0nbI7.png",
-                "https://i.imgur.com/MG63eGy.png",
-                "https://i.imgur.com/B1RaHu8.png",
-                "https://i.imgur.com/ADv6PLl.png",
-                "https://i.imgur.com/T38Fkh5.png",
-                "https://i.imgur.com/uH0Op23.png",
-                "https://i.imgur.com/cqQXUze.png"
-            ]
-        },
-        {
-            "title": "9",
-            "image": "https://i.imgur.com/Ot4DpfY.png",
-            "avatars": [
-                "https://i.imgur.com/v1QZKbG.png",
-                "https://i.imgur.com/D0W1KSG.png",
-                "https://i.imgur.com/PTjvR2I.png",
-                "https://i.imgur.com/m7SeA3k.png",
-                "https://i.imgur.com/ncBv5VR.png",
-                "https://i.imgur.com/yCuQydr.png",
-                "https://i.imgur.com/QIUpBJj.png",
-                "https://i.imgur.com/6BRG3cw.png",
-                "https://i.imgur.com/5KKIVsq.png",
-                "https://i.imgur.com/CXr3ddn.png",
-                "https://i.imgur.com/DNBfiob.png",
-                "https://i.imgur.com/A6FjCwJ.png",
-                "https://i.imgur.com/4pu0t1Z.png"
-            ]
-        },
-        {
-            "title": "Teen Wolf",
-            "image": "https://i.imgur.com/ate7bVg.png",
-            "avatars": [
-                "https://i.imgur.com/ufrFkIO.png",
-                "https://i.imgur.com/YyoYJk3.png",
-                "https://i.imgur.com/Rs9Pr5t.png",
-                "https://i.imgur.com/VSYCXSp.png",
-                "https://i.imgur.com/8yFwqUY.png",
-                "https://i.imgur.com/KKzEyTx.png",
-                "https://i.imgur.com/NCWkaBc.png",
-                "https://i.imgur.com/4DvX0z1.png",
-                "https://i.imgur.com/9RHw4bl.png",
-                "https://i.imgur.com/OQjXLud.png",
-                "https://i.imgur.com/uYJwbww.png",
-                "https://i.imgur.com/UhyqpES.png",
-                "https://i.imgur.com/odjpU6T.png",
-                "https://i.imgur.com/JAAG6Cj.png"
+                "https://i.imgur.com/gwf4QBd.png",
+                "https://i.imgur.com/UzWKZht.png",
+                "https://i.imgur.com/KGH9lsn.png",
+                "https://i.imgur.com/L5KPZVg.png",
+                "https://i.imgur.com/eVbYfRq.png",
+                "https://i.imgur.com/dmRYu14.png",
+                "https://i.imgur.com/0D0G6vh.png",
+                "https://i.imgur.com/kOF2Y4j.png",
+                "https://i.imgur.com/veLoNkR.png",
+                "https://i.imgur.com/c9VQOji.png",
+                "https://i.imgur.com/Ar0qOee.png",
+                "https://i.imgur.com/0RX6FMr.png",
+                "https://i.imgur.com/kCUItX1.png",
+                "https://i.imgur.com/YqoAGHv.png",
+                "https://i.imgur.com/i2xqsDc.png",
+                "https://i.imgur.com/sp2UcjL.png",
+                "https://i.imgur.com/70a6mZM.png",
+                "https://i.imgur.com/JYdYUFO.png",
+                "https://i.imgur.com/dYNutsb.png",
+                "https://i.imgur.com/ZJnSyAZ.png",
+                "https://i.imgur.com/7tCusAy.png"
             ]
         },
         {
             "title": "The Boys",
-            "image": "https://i.imgur.com/0q72R4h.png",
+            "image": "https://i.imgur.com/ulIjEAm.png",
             "avatars": [
-                "https://i.imgur.com/alpgV6q.png",
-                "https://i.imgur.com/0zdZ5qW.png",
-                "https://i.imgur.com/Cx08arU.png",
-                "https://i.imgur.com/nxJbMeN.png",
-                "https://i.imgur.com/SDOqymC.png",
-                "https://i.imgur.com/Nx34rQ9.png",
-                "https://i.imgur.com/BGz7pDI.png",
-                "https://i.imgur.com/BaazsSJ.png",
-                "https://i.imgur.com/Hu1g1eE.png",
-                "https://i.imgur.com/NQ69RXo.png",
-                "https://i.imgur.com/77SVc8G.png",
-                "https://i.imgur.com/7cRTJhE.png"
-            ]
-        },
-        {
-            "title": "twd",
-            "image": "https://i.imgur.com/SogMSDK.png",
-            "avatars": [
-                "https://i.imgur.com/Y9B45VL.png",
-                "https://i.imgur.com/ZFCjZDV.png",
-                "https://i.imgur.com/GKtCEGS.png",
-                "https://i.imgur.com/p0N0q78.png",
-                "https://i.imgur.com/D8TNaFg.png",
-                "https://i.imgur.com/MvCyfIc.png",
-                "https://i.imgur.com/C9wjY36.png",
-                "https://i.imgur.com/x8Mettq.png",
-                "https://i.imgur.com/okMkHFS.png",
-                "https://i.imgur.com/9Mtua1U.png",
-                "https://i.imgur.com/v89ePGk.png",
-                "https://i.imgur.com/ZLXMPNE.png",
-                "https://i.imgur.com/oxnyOJR.png",
-                "https://i.imgur.com/g6UFhJv.png",
-                "https://i.imgur.com/J6svkqx.png"
-            ]
-        },
-        {
-            "title": "Yo Soy Franky",
-            "image": "https://i.imgur.com/xOvPHoC.png",
-            "avatars": [
-                "https://i.imgur.com/J2R0qqz.png",
-                "https://i.imgur.com/evBfxIn.png",
-                "https://i.imgur.com/d8FFsAh.png",
-                "https://i.imgur.com/GK2i1b1.png",
-                "https://i.imgur.com/HR6Z96X.png"
-            ]
-        },
-        {
-            "title": "Crepusculo",
-            "image": "https://i.imgur.com/gOj2cYW.png",
-            "avatars": [
-                "https://i.imgur.com/nchrFt2.png",
-                "https://i.imgur.com/W4ThzDP.png",
-                "https://i.imgur.com/sgj7Qcc.png",
-                "https://i.imgur.com/4vqoDA1.png",
-                "https://i.imgur.com/Sk229N3.png",
-                "https://i.imgur.com/6cfZrqe.png",
-                "https://i.imgur.com/wDLIUQR.png",
-                "https://i.imgur.com/ClSgjql.png",
-                "https://i.imgur.com/5NXV7WX.png",
-                "https://i.imgur.com/1Iktdjr.png",
-                "https://i.imgur.com/5PNn3O6.png",
-                "https://i.imgur.com/4GFv18H.png",
-                "https://i.imgur.com/co6mm3X.png",
-                "https://i.imgur.com/djEsx6i.png",
-                "https://i.imgur.com/RwX8Abp.png",
-                "https://i.imgur.com/p5gx5HG.png",
-                "https://i.imgur.com/qEH9HWL.png",
-                "https://i.imgur.com/dAQxiCQ.png"
-            ]
-        },
-        {
-            "title": "El cadaver de la novia",
-            "image": "https://i.imgur.com/3jYQH6c.png",
-            "avatars": [
-                "https://i.imgur.com/SfYexca.png",
-                "https://i.imgur.com/C7ejllz.png",
-                "https://i.imgur.com/UwOXEEX.png",
-                "https://i.imgur.com/DhUexbG.png",
-                "https://i.imgur.com/VDUfGnN.png",
-                "https://i.imgur.com/Oe88x9e.png",
-                "https://i.imgur.com/Tuk6ufT.png",
-                "https://i.imgur.com/Q9T4u9l.png",
-                "https://i.imgur.com/BltoW8r.png",
-                "https://i.imgur.com/abeFi6L.png",
-                "https://i.imgur.com/OuukIoL.png"
-            ]
-        },
-        {
-            "title": "Encanto",
-            "image": "https://i.imgur.com/1zX0YXS.png",
-            "avatars": [
-                "https://i.imgur.com/HjqBz3Y.png",
-                "https://i.imgur.com/pPkVSF8.png",
-                "https://i.imgur.com/19AcimS.png",
-                "https://i.imgur.com/oe7zkQv.png",
-                "https://i.imgur.com/uj5tbKQ.png"
-            ]
-        },
-        {
-            "title": "Harry Potter",
-            "image": "https://i.imgur.com/vsb87wi.png",
-            "avatars": [
-                "https://i.imgur.com/NPHtDn6.png",
-                "https://i.imgur.com/qRvCO8n.png",
-                "https://i.imgur.com/xqIPY4n.png",
-                "https://i.imgur.com/BM73b4o.png",
-                "https://i.imgur.com/M6Kgtoy.png",
-                "https://i.imgur.com/XEbEUBl.png",
-                "https://i.imgur.com/cmEfOAK.png",
-                "https://i.imgur.com/x9FgD2s.png",
-                "https://i.imgur.com/8OmsxKY.png"
-            ]
-        },
-        {
-            "title": "Los increibles",
-            "image": "https://i.imgur.com/A9C8QwS.png",
-            "avatars": [
-                "https://i.imgur.com/1dUiiD4.png",
-                "https://i.imgur.com/RB1LaUq.png",
-                "https://i.imgur.com/Vuui6Cr.png",
-                "https://i.imgur.com/Y0wdixe.png",
-                "https://i.imgur.com/3zcRUnR.png",
-                "https://i.imgur.com/eZOTIXI.png",
-                "https://i.imgur.com/3MjWScK.png"
-            ]
-        },
-        {
-            "title": "Los juegos del hambre",
-            "image": "https://i.imgur.com/gD76nvP.png",
-            "avatars": [
-                "https://i.imgur.com/ewI4dmK.png",
-                "https://i.imgur.com/VnjuOMF.png",
-                "https://i.imgur.com/JsvlLpW.png",
-                "https://i.imgur.com/jwG7pWA.png"
-            ]
-        },
-        {
-            "title": "Malefica",
-            "image": "https://i.imgur.com/Bs7YJ1W.png",
-            "avatars": [
-                "https://i.imgur.com/dX4lPP2.png",
-                "https://i.imgur.com/Va1SEZR.png",
-                "https://i.imgur.com/5bXTcat.png",
-                "https://i.imgur.com/2XPq7QV.png",
-                "https://i.imgur.com/spD3sYL.png"
-            ]
-        },
-        {
-            "title": "Matrix",
-            "image": "https://i.imgur.com/pYJ2EEW.png",
-            "avatars": [
-                "https://i.imgur.com/ML5KaSB.png",
-                "https://i.imgur.com/jLhAcYs.png",
-                "https://i.imgur.com/F3MZw3Q.png",
-                "https://i.imgur.com/Ai2uYHE.png",
-                "https://i.imgur.com/D5vFbDW.png",
-                "https://i.imgur.com/hcihbvx.png",
-                "https://i.imgur.com/RNMQeIt.png",
-                "https://i.imgur.com/FhZkvnx.png",
-                "https://i.imgur.com/D1v8aao.png"
-            ]
-        },
-        {
-            "title": "Rapidos y furiosos",
-            "image": "https://i.imgur.com/PcU3kmO.png",
-            "avatars": [
-                "https://i.imgur.com/KMWMjGW.png",
-                "https://i.imgur.com/stDYY9j.png",
-                "https://i.imgur.com/1NhHE3l.png",
-                "https://i.imgur.com/cQNCots.png",
-                "https://i.imgur.com/QCWXQUY.png",
-                "https://i.imgur.com/MnTP7vU.png",
-                "https://i.imgur.com/kN0exbl.png",
-                "https://i.imgur.com/njMfXIN.png",
-                "https://i.imgur.com/EQzm7BK.png",
-                "https://i.imgur.com/ihvJiBS.png",
-                "https://i.imgur.com/gaGGMCB.png",
-                "https://i.imgur.com/7dn8iVF.png",
-                "https://i.imgur.com/bp2PTxR.png",
-                "https://i.imgur.com/rLPf2ys.png",
-                "https://i.imgur.com/o8DqpcL.png"
-            ]
-        },
-        {
-            "title": "Resident evil",
-            "image": "https://i.imgur.com/MwcXXdl.png",
-            "avatars": [
-                "https://i.imgur.com/Ll8vwWb.png",
-                "https://i.imgur.com/87yc48m.png",
-                "https://i.imgur.com/D7erKyR.png",
-                "https://i.imgur.com/iVJJU2o.png",
-                "https://i.imgur.com/S3KT8Tg.png",
-                "https://i.imgur.com/Hg4yUnE.png",
-                "https://i.imgur.com/5bF9kj1.png",
-                "https://i.imgur.com/kRVDj8t.png",
-                "https://i.imgur.com/ziTgaRm.png",
-                "https://i.imgur.com/KVoxOis.png",
-                "https://i.imgur.com/CgNpRLG.png",
-                "https://i.imgur.com/anWVWoI.png",
-                "https://i.imgur.com/qbKAZri.png"
-            ]
-        },
-        {
-            "title": "Scooby Doo",
-            "image": "https://i.imgur.com/aJyv2qy.png",
-            "avatars": [
-                "https://i.imgur.com/MFtsYjC.png",
-                "https://i.imgur.com/k53CZTn.png",
-                "https://i.imgur.com/JZJt3x2.png",
-                "https://i.imgur.com/VziMUWP.png",
-                "https://i.imgur.com/X9zztaX.png"
-            ]
-        },
-        {
-            "title": "Shrek",
-            "image": "https://i.imgur.com/3hR4PUh.png",
-            "avatars": [
-                "https://i.imgur.com/1WgwmIg.png",
-                "https://i.imgur.com/6cDfJcx.png",
-                "https://i.imgur.com/Kh8rooB.png",
-                "https://i.imgur.com/gf7g5Ce.png",
-                "https://i.imgur.com/ZE5c1mk.png"
-            ]
-        },
-        {
-            "title": "Wandavision",
-            "image": "https://i.imgur.com/64iqHki.png",
-            "avatars": [
-                "https://i.imgur.com/ICrWJ2O.png",
-                "https://i.imgur.com/7yjeaZo.png",
-                "https://i.imgur.com/ZLfu6dP.png",
-                "https://i.imgur.com/UXWITZ6.png",
-                "https://i.imgur.com/doRuPsy.png",
-                "https://i.imgur.com/yTu2VO6.png",
-                "https://i.imgur.com/TXrg0d1.png",
-                "https://i.imgur.com/GbJ1Qnr.png",
-                "https://i.imgur.com/XTacqwZ.png",
-                "https://i.imgur.com/du0WHLs.png"
-            ]
-        },
-        {
-            "title": "What If",
-            "image": "https://i.imgur.com/6VEhwno.png",
-            "avatars": [
-                "https://i.imgur.com/tj9UfAL.png",
-                "https://i.imgur.com/pjkTOfK.png",
-                "https://i.imgur.com/w6PUojF.png",
-                "https://i.imgur.com/xZGkN8h.png",
-                "https://i.imgur.com/BZVmEHp.png",
-                "https://i.imgur.com/ANFWxTj.png",
-                "https://i.imgur.com/kq3m8Sm.png",
-                "https://i.imgur.com/RMcn8nK.png",
-                "https://i.imgur.com/OLI0Wx5.png",
-                "https://i.imgur.com/VDCmlLk.png",
-                "https://i.imgur.com/Mug0jJ6.png",
-                "https://i.imgur.com/F3zn5pQ.png",
-                "https://i.imgur.com/h8Szler.png",
-                "https://i.imgur.com/dzccuzZ.png",
-                "https://i.imgur.com/Vq7axzI.png",
-                "https://i.imgur.com/ixsZXqs.png",
-                "https://i.imgur.com/5NPnU6Z.png"
-            ]
-        },
-        {
-            "title": "WWE",
-            "image": "https://i.imgur.com/EXwYB3X.png",
-            "avatars": [
-                "https://i.imgur.com/v6EYuhx.png",
-                "https://i.imgur.com/sFAdvAI.png",
-                "https://i.imgur.com/rwoGHFT.png",
-                "https://i.imgur.com/oA3Tplf.png",
-                "https://i.imgur.com/N4Agrfy.png",
-                "https://i.imgur.com/MQJhjuS.png",
-                "https://i.imgur.com/YtKKyDN.png",
-                "https://i.imgur.com/MqLvYDR.png",
-                "https://i.imgur.com/6XT4NLI.png",
-                "https://i.imgur.com/R5Y6eW9.png",
-                "https://i.imgur.com/fPQpBQ0.png"
-            ]
-        },
-        {
-            "title": "Avatar el ultimo maestro del aire",
-            "image": "https://i.imgur.com/62j2irP.png",
-            "avatars": [
-                "https://i.imgur.com/xTAiQoK.png",
-                "https://i.imgur.com/jjJDmhC.png",
-                "https://i.imgur.com/t4LeN9B.png",
-                "https://i.imgur.com/jWYcU8Q.png",
-                "https://i.imgur.com/tZKOJsY.png",
-                "https://i.imgur.com/3LA69JG.png",
-                "https://i.imgur.com/3hCMtUL.png",
-                "https://i.imgur.com/UjPpVTq.png"
-            ]
-        },
-        {
-            "title": "Cruella",
-            "image": "https://i.imgur.com/lSrXaWc.png",
-            "avatars": [
-                "https://i.imgur.com/Qpd4jLD.png",
-                "https://i.imgur.com/m3ADAfF.png",
-                "https://i.imgur.com/2xitxdd.png",
-                "https://i.imgur.com/3IVoahU.png",
-                "https://i.imgur.com/XLJOJ5h.png"
-            ]
-        },
-        {
-            "title": "Deadpool",
-            "image": "https://i.imgur.com/8EIxMCA.png",
-            "avatars": [
-                "https://i.imgur.com/IaSPxNy.png",
-                "https://i.imgur.com/Ett4O8c.png",
-                "https://i.imgur.com/9oWrdEu.png",
-                "https://i.imgur.com/E8yO2Vi.png",
-                "https://i.imgur.com/u5UfPRL.png",
-                "https://i.imgur.com/mZvldd3.png",
-                "https://i.imgur.com/F2PebKb.png",
-                "https://i.imgur.com/b9Jb9v6.png",
-                "https://i.imgur.com/cKawaQu.png",
-                "https://i.imgur.com/YXtU8NP.png",
-                "https://i.imgur.com/wGUbAhP.png"
-            ]
-        },
-        {
-            "title": "El libro de boba fett",
-            "image": "https://i.imgur.com/2phHH4T.png",
-            "avatars": [
-                "https://i.imgur.com/M2rVG5K.png",
-                "https://i.imgur.com/nmOxOEl.png",
-                "https://i.imgur.com/C28Z2i8.png",
-                "https://i.imgur.com/BQPfRV1.png",
-                "https://i.imgur.com/jTwfkH7.png",
-                "https://i.imgur.com/9tzS9dr.png",
-                "https://i.imgur.com/UtjVinD.png",
-                "https://i.imgur.com/sbEx90r.png",
-                "https://i.imgur.com/t0C55uV.png"
-            ]
-        },
-        {
-            "title": "El Mentalista",
-            "image": "https://i.imgur.com/aViGyQp.png",
-            "avatars": [
-                "https://i.imgur.com/WhB2X3J.png",
-                "https://i.imgur.com/4GKYaUW.png",
-                "https://i.imgur.com/bwZKMHm.png",
-                "https://i.imgur.com/znXLCxR.png"
-            ]
-        },
-        {
-            "title": "Eternals",
-            "image": "https://i.imgur.com/3gRN8uY.png",
-            "avatars": [
-                "https://i.imgur.com/5ud4Pi7.png",
-                "https://i.imgur.com/0KpDeFA.png",
-                "https://i.imgur.com/lTN8fKw.png",
-                "https://i.imgur.com/8WlvvMg.png",
-                "https://i.imgur.com/vDauLMz.png",
-                "https://i.imgur.com/wYE3Vo4.png",
-                "https://i.imgur.com/1Kcl2yN.png",
-                "https://i.imgur.com/1xWxJMP.png",
-                "https://i.imgur.com/Nxy0D1U.png",
-                "https://i.imgur.com/LkBD32e.png"
-            ]
-        },
-        {
-            "title": "Frozen",
-            "image": "https://i.imgur.com/a5KmnQe.png",
-            "avatars": [
-                "https://i.imgur.com/AiD9c0s.png",
-                "https://i.imgur.com/4FlPjAh.png",
-                "https://i.imgur.com/7lFTCWd.png",
-                "https://i.imgur.com/XSK4VoE.png",
-                "https://i.imgur.com/aswar2Z.png",
-                "https://i.imgur.com/UZ6fJyq.png"
-            ]
-        },
-        {
-            "title": "Icarly",
-            "image": "https://i.imgur.com/KatuW5o.png",
-            "avatars": [
-                "https://i.imgur.com/ATmRZEW.png",
-                "https://i.imgur.com/0mbRqKD.png",
-                "https://i.imgur.com/AsJj0Qz.png",
-                "https://i.imgur.com/ez28s36.png",
-                "https://i.imgur.com/Pi45E1W.png",
-                "https://i.imgur.com/PDgFGmq.png"
-            ]
-        },
-        {
-            "title": "Ice Age",
-            "image": "https://i.imgur.com/PkniZ0D.png",
-            "avatars": [
-                "https://i.imgur.com/l6Bybmr.png",
-                "https://i.imgur.com/AyueNGB.png",
-                "https://i.imgur.com/NCZElgQ.png",
-                "https://i.imgur.com/ddXI2PH.png"
+                "https://i.imgur.com/higTbxz.png",
+                "https://i.imgur.com/5sCthgw.png",
+                "https://i.imgur.com/nkEdpCr.png",
+                "https://i.imgur.com/BNJIbAw.png",
+                "https://i.imgur.com/ecXF6rI.png",
+                "https://i.imgur.com/IW4khfM.png",
+                "https://i.imgur.com/XeUdubV.png",
+                "https://i.imgur.com/bhPPgrR.png",
+                "https://i.imgur.com/JgcVLEI.png",
+                "https://i.imgur.com/vPB5ZYi.png",
+                "https://i.imgur.com/kCuJzFc.png",
+                "https://i.imgur.com/9NDARab.png"
             ]
         },
         {
             "title": "Stranger Things",
-            "image": "https://i.imgur.com/Bef8pgn.png",
+            "image": "https://i.imgur.com/vc2fen6.png",
             "avatars": [
-                "https://i.imgur.com/PCdQ8xj.png",
-                "https://i.imgur.com/dFyqxEO.png",
-                "https://i.imgur.com/iLhorpC.png",
-                "https://i.imgur.com/rGkvlID.png",
-                "https://i.imgur.com/LiP3Don.png"
+                "https://i.imgur.com/x3BtJqH.png",
+                "https://i.imgur.com/0ZbAxSU.png",
+                "https://i.imgur.com/HYFDMJV.png",
+                "https://i.imgur.com/Sos1Lnf.png",
+                "https://i.imgur.com/jxSAZux.png"
+            ]
+        },
+        {
+            "title": "Siete Pecados",
+            "image": "https://i.imgur.com/D2Uot02.png",
+            "avatars": [
+                "https://i.imgur.com/EMvdKL8.png",
+                "https://i.imgur.com/3iRwaTg.png",
+                "https://i.imgur.com/dohQMfS.png",
+                "https://i.imgur.com/RfDzWjy.png",
+                "https://i.imgur.com/bX5OM5J.png",
+                "https://i.imgur.com/Y4C5Nbv.png",
+                "https://i.imgur.com/dXL7fhA.png",
+                "https://i.imgur.com/7lfSFsI.png"
+            ]
+        },
+        {
+            "title": "Aladdin",
+            "image": "https://i.imgur.com/O1dPnWd.png",
+            "avatars": [
+                "https://i.imgur.com/rPw8Gmw.png",
+                "https://i.imgur.com/kaG2rmU.png",
+                "https://i.imgur.com/Bl3CcPa.png",
+                "https://i.imgur.com/wE7GQV0.png"
+            ]
+        },
+        {
+            "title": "Altered Carbon",
+            "image": "https://i.imgur.com/ogqOAIa.png",
+            "avatars": [
+                "https://i.imgur.com/f8KxbRD.png",
+                "https://i.imgur.com/XwPHUyJ.png",
+                "https://i.imgur.com/BxYjfhk.png",
+                "https://i.imgur.com/7chmem0.png",
+                "https://i.imgur.com/gygWnVo.png",
+                "https://i.imgur.com/zsqGlTq.png",
+                "https://i.imgur.com/nSo00eN.png"
+            ]
+        },
+        {
+            "title": "Arcane",
+            "image": "https://i.imgur.com/sQV601E.png",
+            "avatars": [
+                "https://i.imgur.com/9TNGIy4.png",
+                "https://i.imgur.com/PKb4JJo.png",
+                "https://i.imgur.com/WgTLW5w.png",
+                "https://i.imgur.com/orVBrF0.png",
+                "https://i.imgur.com/YpFoOLn.png",
+                "https://i.imgur.com/FwetPcR.png",
+                "https://i.imgur.com/90qe4jT.png"
+            ]
+        },
+        {
+            "title": "Avatar el ultimo maestro del aire",
+            "image": "https://i.imgur.com/QtuZGTS.png",
+            "avatars": [
+                "https://i.imgur.com/ia2auGn.png",
+                "https://i.imgur.com/QezJgy2.png",
+                "https://i.imgur.com/LqCP348.png",
+                "https://i.imgur.com/LhPNC2l.png",
+                "https://i.imgur.com/R5lwYew.png",
+                "https://i.imgur.com/zIyArMp.png",
+                "https://i.imgur.com/Xt5mXfc.png",
+                "https://i.imgur.com/QKPPQBo.png"
+            ]
+        },
+        {
+            "title": "Black Widow",
+            "image": "https://i.imgur.com/5P0CwoJ.png",
+            "avatars": [
+                "https://i.imgur.com/Tq1miIp.png",
+                "https://i.imgur.com/bXd2viy.png",
+                "https://i.imgur.com/NvLshiq.png",
+                "https://i.imgur.com/bry1RwA.png",
+                "https://i.imgur.com/hynHybr.png",
+                "https://i.imgur.com/KxsOSPx.png"
+            ]
+        },
+        {
+            "title": "Breaking Bad",
+            "image": "https://i.imgur.com/5RRk0GR.png",
+            "avatars": [
+                "https://i.imgur.com/OK5WHoZ.png",
+                "https://i.imgur.com/E42BNnS.png",
+                "https://i.imgur.com/DzJ0Wka.png",
+                "https://i.imgur.com/Ly6nJN8.png",
+                "https://i.imgur.com/HKOt9Mj.png"
+            ]
+        },
+        {
+            "title": "Crepusculo",
+            "image": "https://i.imgur.com/t799F6U.png",
+            "avatars": [
+                "https://i.imgur.com/0nNtYel.png",
+                "https://i.imgur.com/ZaOye4w.png",
+                "https://i.imgur.com/ZWWWvfK.png",
+                "https://i.imgur.com/pFrYCrV.png",
+                "https://i.imgur.com/tyQAgxM.png",
+                "https://i.imgur.com/FQcrAzb.png",
+                "https://i.imgur.com/e7zoSdf.png",
+                "https://i.imgur.com/1lNFh6T.png",
+                "https://i.imgur.com/wuInnPq.png",
+                "https://i.imgur.com/27oQciZ.png",
+                "https://i.imgur.com/n8oSv0h.png",
+                "https://i.imgur.com/Jzak3Mr.png",
+                "https://i.imgur.com/IsmTCnI.png",
+                "https://i.imgur.com/sCfsuTT.png",
+                "https://i.imgur.com/nFWrs2C.png",
+                "https://i.imgur.com/nmGThrS.png",
+                "https://i.imgur.com/1U4dNeu.png",
+                "https://i.imgur.com/VuxScwg.png"
+            ]
+        },
+        {
+            "title": "Cruella",
+            "image": "https://i.imgur.com/dhg18jC.png",
+            "avatars": [
+                "https://i.imgur.com/95lEHT7.png",
+                "https://i.imgur.com/e5LdyOe.png",
+                "https://i.imgur.com/kIzEbuL.png",
+                "https://i.imgur.com/R2Fc2hp.png",
+                "https://i.imgur.com/uXLNbXG.png"
+            ]
+        },
+        {
+            "title": "Deadpool",
+            "image": "https://i.imgur.com/Cq2tAFb.png",
+            "avatars": [
+                "https://i.imgur.com/lklOp3m.png",
+                "https://i.imgur.com/iDYTwMQ.png",
+                "https://i.imgur.com/5pZ7ntZ.png",
+                "https://i.imgur.com/fGREV5m.png",
+                "https://i.imgur.com/LxVLfQU.png",
+                "https://i.imgur.com/wz2wj50.png",
+                "https://i.imgur.com/YP5UnJF.png",
+                "https://i.imgur.com/kP0eyvi.png",
+                "https://i.imgur.com/3VYHU25.png",
+                "https://i.imgur.com/BAmm8Bj.png",
+                "https://i.imgur.com/GfRXvaH.png"
+            ]
+        },
+        {
+            "title": "Dragon Ball Super",
+            "image": "https://i.imgur.com/ONDbEkP.png",
+            "avatars": [
+                "https://i.imgur.com/jyjRmPQ.png",
+                "https://i.imgur.com/FHWlCSh.png",
+                "https://i.imgur.com/5kYihlg.png",
+                "https://i.imgur.com/31yx1ev.png",
+                "https://i.imgur.com/ohrrvAD.png",
+                "https://i.imgur.com/RFhyNKb.png",
+                "https://i.imgur.com/2i7efFC.png",
+                "https://i.imgur.com/qUf6wEx.png",
+                "https://i.imgur.com/UX1kzSP.png",
+                "https://i.imgur.com/4pCub25.png",
+                "https://i.imgur.com/MNo4HpQ.png",
+                "https://i.imgur.com/nuqORFt.png",
+                "https://i.imgur.com/6xYfAv4.png",
+                "https://i.imgur.com/IYCz9wn.png",
+                "https://i.imgur.com/QWc2DrD.png",
+                "https://i.imgur.com/B4PSjFm.png"
+            ]
+        },
+        {
+            "title": "Dragon Ball Z",
+            "image": "https://i.imgur.com/Uan7UL7.png",
+            "avatars": [
+                "https://i.imgur.com/qaTc4i7.png",
+                "https://i.imgur.com/gPU06GX.png",
+                "https://i.imgur.com/KIeflnc.png",
+                "https://i.imgur.com/I98X18j.png",
+                "https://i.imgur.com/3M1r7ec.png",
+                "https://i.imgur.com/DKcJb71.png",
+                "https://i.imgur.com/mFEc3q9.png",
+                "https://i.imgur.com/UvqiStG.png",
+                "https://i.imgur.com/iD8UYae.png",
+                "https://i.imgur.com/nuci869.png",
+                "https://i.imgur.com/PWdOwaj.png",
+                "https://i.imgur.com/cdMsgsB.png",
+                "https://i.imgur.com/CN5iXMU.png",
+                "https://i.imgur.com/hbHKTqB.png",
+                "https://i.imgur.com/VlAGLxG.png"
+            ]
+        },
+        {
+            "title": "El cadaver de la novia",
+            "image": "https://i.imgur.com/M6jwFgJ.png",
+            "avatars": [
+                "https://i.imgur.com/umg08UT.png",
+                "https://i.imgur.com/s8aI2gE.png",
+                "https://i.imgur.com/yG050r3.png",
+                "https://i.imgur.com/wNURc8m.png",
+                "https://i.imgur.com/RmSg7DB.png",
+                "https://i.imgur.com/SKkavMr.png",
+                "https://i.imgur.com/Wzfaix7.png",
+                "https://i.imgur.com/IcpQPXl.png",
+                "https://i.imgur.com/jLY0UkD.png",
+                "https://i.imgur.com/771Pay6.png",
+                "https://i.imgur.com/juijMhX.png"
+            ]
+        },
+        {
+            "title": "El libro de boba fett",
+            "image": "https://i.imgur.com/LLSh0X7.png",
+            "avatars": [
+                "https://i.imgur.com/BDD2F5v.png",
+                "https://i.imgur.com/jMubnW0.png",
+                "https://i.imgur.com/G3X21FF.png",
+                "https://i.imgur.com/Kjf5l6l.png",
+                "https://i.imgur.com/pR7ICC8.png",
+                "https://i.imgur.com/JyGQKfT.png",
+                "https://i.imgur.com/BWyxfWc.png",
+                "https://i.imgur.com/DoQLCke.png",
+                "https://i.imgur.com/T95uzeo.png"
+            ]
+        },
+        {
+            "title": "El Mentalista",
+            "image": "https://i.imgur.com/0tpZxIu.png",
+            "avatars": [
+                "https://i.imgur.com/wdSSk3T.png",
+                "https://i.imgur.com/OX9eNSW.png",
+                "https://i.imgur.com/4XV2cXo.png",
+                "https://i.imgur.com/WPzR6HP.png",
+                "https://i.imgur.com/nyanzSk.png"
+            ]
+        },
+        {
+            "title": "El pacificador",
+            "image": "https://i.imgur.com/7g5p6ka.png",
+            "avatars": [
+                "https://i.imgur.com/5Ia9oR6.png",
+                "https://i.imgur.com/jehJXGN.png",
+                "https://i.imgur.com/QuNzNBv.png",
+                "https://i.imgur.com/MUwIAQU.png",
+                "https://i.imgur.com/be6I8eF.png",
+                "https://i.imgur.com/v2jykI6.png"
+            ]
+        },
+        {
+            "title": "Encanto",
+            "image": "https://i.imgur.com/GeSrDvl.png",
+            "avatars": [
+                "https://i.imgur.com/BuVekcx.png",
+                "https://i.imgur.com/OZlEuMJ.png",
+                "https://i.imgur.com/dGfVXek.png",
+                "https://i.imgur.com/A1jAJr0.png",
+                "https://i.imgur.com/WvPC96a.png"
+            ]
+        },
+        {
+            "title": "Escuadron Suicida",
+            "image": "https://i.imgur.com/MVeSGtZ.png",
+            "avatars": [
+                "https://i.imgur.com/TFbnjzU.png",
+                "https://i.imgur.com/lEhJZQe.png",
+                "https://i.imgur.com/7xMzEx2.png",
+                "https://i.imgur.com/4j475sU.png",
+                "https://i.imgur.com/nD8gQsR.png",
+                "https://i.imgur.com/N3xunm2.png",
+                "https://i.imgur.com/8It2TfQ.png",
+                "https://i.imgur.com/hSYks3h.png",
+                "https://i.imgur.com/NhgxBb7.png",
+                "https://i.imgur.com/4h7zNCM.png",
+                "https://i.imgur.com/0qIYkfw.png",
+                "https://i.imgur.com/v1MwkHE.png"
+            ]
+        },
+        {
+            "title": "Falcon Y El Soldado De Invierno",
+            "image": "https://i.imgur.com/aKMur6E.png",
+            "avatars": [
+                "https://i.imgur.com/ZJ7BZTr.png",
+                "https://i.imgur.com/MzycJZO.png",
+                "https://i.imgur.com/w414laa.png",
+                "https://i.imgur.com/D4i0pk7.png",
+                "https://i.imgur.com/IDU0WQo.png",
+                "https://i.imgur.com/pbseo7b.png",
+                "https://i.imgur.com/wgx4ehk.png",
+                "https://i.imgur.com/kfwM8ez.png"
+            ]
+        },
+        {
+            "title": "Fear The Walking Dead",
+            "image": "https://i.imgur.com/GA7PT3k.png",
+            "avatars": [
+                "https://i.imgur.com/QcjRcXR.png",
+                "https://i.imgur.com/cEXd8rh.png",
+                "https://i.imgur.com/QLzKGSw.png",
+                "https://i.imgur.com/nIqekin.png",
+                "https://i.imgur.com/y2YtqQZ.png",
+                "https://i.imgur.com/rApTeOp.png",
+                "https://i.imgur.com/12XXnW1.png",
+                "https://i.imgur.com/jaBYiJx.png",
+                "https://i.imgur.com/D8u2vAo.png",
+                "https://i.imgur.com/4uJbuo4.png",
+                "https://i.imgur.com/uOKW26B.png",
+                "https://i.imgur.com/15CZuYJ.png",
+                "https://i.imgur.com/6oO0HOg.png"
+            ]
+        },
+        {
+            "title": "Frozen",
+            "image": "https://i.imgur.com/iQ0jGp2.png",
+            "avatars": [
+                "https://i.imgur.com/lhgCR3B.png",
+                "https://i.imgur.com/YzPj6tn.png",
+                "https://i.imgur.com/3NRkF0y.png",
+                "https://i.imgur.com/Lodbsub.png",
+                "https://i.imgur.com/MYo2B4s.png",
+                "https://i.imgur.com/06YRUE0.png"
+            ]
+        },
+        {
+            "title": "Harry Potter",
+            "image": "https://i.imgur.com/j7X0WVO.png",
+            "avatars": [
+                "https://i.imgur.com/q9mtHSJ.png",
+                "https://i.imgur.com/BVC6tWc.png",
+                "https://i.imgur.com/SXwjh92.png",
+                "https://i.imgur.com/vWavrfy.png",
+                "https://i.imgur.com/s9QR9KP.png",
+                "https://i.imgur.com/FvTNe1t.png",
+                "https://i.imgur.com/XG4CJNB.png",
+                "https://i.imgur.com/JpCsFJD.png",
+                "https://i.imgur.com/zxPHLv0.png"
+            ]
+        },
+        {
+            "title": "Hawkaye",
+            "image": "https://i.imgur.com/xrl7BtX.png",
+            "avatars": [
+                "https://i.imgur.com/P72mcsv.png",
+                "https://i.imgur.com/PGuaTH9.png",
+                "https://i.imgur.com/j8zt80n.png",
+                "https://i.imgur.com/rBd1xsH.png",
+                "https://i.imgur.com/ZmCUYyM.png",
+                "https://i.imgur.com/GZspMMX.png",
+                "https://i.imgur.com/K1kSTcK.png",
+                "https://i.imgur.com/FS55kVJ.png",
+                "https://i.imgur.com/rffj0nA.png",
+                "https://i.imgur.com/ZAQZqpy.png"
+            ]
+        },
+        {
+            "title": "Icarly",
+            "image": "https://i.imgur.com/1VXj4K8.png",
+            "avatars": [
+                "https://i.imgur.com/Y2Ip1p4.png",
+                "https://i.imgur.com/36jx6Hs.png",
+                "https://i.imgur.com/SWt88T3.png",
+                "https://i.imgur.com/dPG5bCl.png",
+                "https://i.imgur.com/FPMYRfb.png",
+                "https://i.imgur.com/NKDTXfD.png"
+            ]
+        },
+        {
+            "title": "Invencible",
+            "image": "https://i.imgur.com/FNXKG2r.png",
+            "avatars": [
+                "https://i.imgur.com/p6s6gBV.png",
+                "https://i.imgur.com/D0pzboD.png",
+                "https://i.imgur.com/zyISLqH.png",
+                "https://i.imgur.com/gBiBPuf.png",
+                "https://i.imgur.com/4iDi383.png"
+            ]
+        },
+        {
+            "title": "Logo",
+            "image": "https://i.imgur.com/QmCfWvL.png",
+            "avatars": [
+                "https://i.imgur.com/QlEBZXF.png",
+                "https://i.imgur.com/nrf1jyo.png",
+                "https://i.imgur.com/1udwsNk.png",
+                "https://i.imgur.com/8bxyPXr.png",
+                "https://i.imgur.com/l5I1hHD.png",
+                "https://i.imgur.com/UaCOonK.png",
+                "https://i.imgur.com/zfqiw2T.png",
+                "https://i.imgur.com/FLGXEqx.png",
+                "https://i.imgur.com/SS7Mhzf.png",
+                "https://i.imgur.com/2ppqviU.png",
+                "https://i.imgur.com/fgokHVr.png",
+                "https://i.imgur.com/8jdJYJi.png",
+                "https://i.imgur.com/8jBjt9i.png",
+                "https://i.imgur.com/rZRpnez.png",
+                "https://i.imgur.com/Id126YK.png",
+                "https://i.imgur.com/mIJT15F.png",
+                "https://i.imgur.com/chz3xav.png",
+                "https://i.imgur.com/qM4EHFN.png",
+                "https://i.imgur.com/rC1S4FM.png",
+                "https://i.imgur.com/XSEhJdP.png",
+                "https://i.imgur.com/UJQSeZn.png",
+                "https://i.imgur.com/frsEopg.png",
+                "https://i.imgur.com/TtY3YPX.png",
+                "https://i.imgur.com/Eb7SNst.png",
+                "https://i.imgur.com/rPei3tZ.png",
+                "https://i.imgur.com/62zAyPh.png",
+                "https://i.imgur.com/MIoYLGs.png"
+            ]
+        },
+        {
+            "title": "Ice Age",
+            "image": "https://i.imgur.com/9jaImLD.png",
+            "avatars": [
+                "https://i.imgur.com/bZ2K5Lu.png",
+                "https://i.imgur.com/zMfWp4e.png",
+                "https://i.imgur.com/3Ty8MnT.png",
+                "https://i.imgur.com/auGdrJe.png"
+            ]
+        },
+        {
+            "title": "La liga de la justicia de Zack",
+            "image": "https://i.imgur.com/f2nACCk.png",
+            "avatars": [
+                "https://i.imgur.com/Ucior2g.png",
+                "https://i.imgur.com/OGzyhzC.png",
+                "https://i.imgur.com/C7NNM5Q.png",
+                "https://i.imgur.com/ozCj90k.png",
+                "https://i.imgur.com/Qsvmlhx.png",
+                "https://i.imgur.com/4zNYXPN.png",
+                "https://i.imgur.com/ojevBQe.png"
+            ]
+        },
+        {
+            "title": "Loki",
+            "image": "https://i.imgur.com/LlhRRwN.png",
+            "avatars": [
+                "https://i.imgur.com/Bq0CRdP.png",
+                "https://i.imgur.com/9OYKbxu.png",
+                "https://i.imgur.com/QZIO2cW.png",
+                "https://i.imgur.com/w6KAzom.png",
+                "https://i.imgur.com/y5SjEsq.png",
+                "https://i.imgur.com/RZzBkjx.png",
+                "https://i.imgur.com/78kqAdZ.png",
+                "https://i.imgur.com/fDUQcwq.png",
+                "https://i.imgur.com/uR3sYYs.png",
+                "https://i.imgur.com/JVYUVNm.png",
+                "https://i.imgur.com/HkKe3JY.png"
+            ]
+        },
+        {
+            "title": "Los increibles",
+            "image": "https://i.imgur.com/fE6Tfiy.png",
+            "avatars": [
+                "https://i.imgur.com/edmALZJ.png",
+                "https://i.imgur.com/TLywg9g.png",
+                "https://i.imgur.com/Us5mtCH.png",
+                "https://i.imgur.com/p2FbD3n.png",
+                "https://i.imgur.com/UlC6fWa.png",
+                "https://i.imgur.com/josL3jI.png",
+                "https://i.imgur.com/Q1MiVgv.png"
+            ]
+        },
+        {
+            "title": "Los juegos del hambre",
+            "image": "https://i.imgur.com/gVEbn1X.png",
+            "avatars": [
+                "https://i.imgur.com/Ro2UvZw.png",
+                "https://i.imgur.com/mLIVIRV.png",
+                "https://i.imgur.com/V8DBNxu.png",
+                "https://i.imgur.com/QdSNDEV.png",
+                "https://i.imgur.com/g92SWcS.png",
+                "https://i.imgur.com/5tLX3Xc.png"
+            ]
+        },
+        {
+            "title": "Los simpson",
+            "image": "https://i.imgur.com/1Ks0sdu.png",
+            "avatars": [
+                "https://i.imgur.com/nmXO7VW.png",
+                "https://i.imgur.com/Pvhin3Y.png",
+                "https://i.imgur.com/5f3n1oR.png",
+                "https://i.imgur.com/zb9CAx4.png",
+                "https://i.imgur.com/eSmZa2a.png",
+                "https://i.imgur.com/nowzHPV.png",
+                "https://i.imgur.com/4CwCcu7.png",
+                "https://i.imgur.com/VWxHxuN.png",
+                "https://i.imgur.com/cJajzgu.png",
+                "https://i.imgur.com/1oIyy28.png",
+                "https://i.imgur.com/c4iSaFo.png"
+            ]
+        },
+        {
+            "title": "Malefica",
+            "image": "https://i.imgur.com/jP7C3De.png",
+            "avatars": [
+                "https://i.imgur.com/t3dn9ek.png",
+                "https://i.imgur.com/po2j0E4.png",
+                "https://i.imgur.com/OHQH2pE.png",
+                "https://i.imgur.com/YsU6z56.png",
+                "https://i.imgur.com/9N6dK0c.png"
+            ]
+        },
+        {
+            "title": "Matrix",
+            "image": "https://i.imgur.com/wdhRPjI.png",
+            "avatars": [
+                "https://i.imgur.com/ZJNNkwv.png",
+                "https://i.imgur.com/Cgne2Sd.png",
+                "https://i.imgur.com/u0gRi6j.png",
+                "https://i.imgur.com/8lk08EC.png",
+                "https://i.imgur.com/TPsW1JU.png",
+                "https://i.imgur.com/Qwvdo5t.png",
+                "https://i.imgur.com/fcct0Cu.png",
+                "https://i.imgur.com/r5TP3Wu.png",
+                "https://i.imgur.com/2HB1XK9.png"
+            ]
+        },
+        {
+            "title": "Moana",
+            "image": "https://i.imgur.com/aH6qx67.png",
+            "avatars": [
+                "https://i.imgur.com/b5PqA5Z.png",
+                "https://i.imgur.com/WilJsOd.png"
+            ]
+        },
+        {
+            "title": "Mortal Kombat",
+            "image": "https://i.imgur.com/gYmddoA.png",
+            "avatars": [
+                "https://i.imgur.com/cfcDMwL.png",
+                "https://i.imgur.com/xSJYUBf.png",
+                "https://i.imgur.com/6aF1LYO.png",
+                "https://i.imgur.com/D8qRVtj.png",
+                "https://i.imgur.com/P3UyV8L.png",
+                "https://i.imgur.com/qlh7mcu.png",
+                "https://i.imgur.com/cY6PybX.png",
+                "https://i.imgur.com/QDkcmGu.png",
+                "https://i.imgur.com/EOitNJA.png",
+                "https://i.imgur.com/xOKJslm.png",
+                "https://i.imgur.com/W5Xs23x.png",
+                "https://i.imgur.com/VXRainy.png"
+            ]
+        },
+        {
+            "title": "Naruto",
+            "image": "https://i.imgur.com/LwIqBy0.png",
+            "avatars": [
+                "https://i.imgur.com/MnVJEBx.jpeg",
+                "https://i.imgur.com/PYc5Vpq.jpeg",
+                "https://i.imgur.com/K1144mz.jpeg",
+                "https://i.imgur.com/87TPfGr.jpeg",
+                "https://i.imgur.com/JLhkT5M.jpeg",
+                "https://i.imgur.com/MJlbUOp.jpeg",
+                "https://i.imgur.com/irrJHPs.jpeg",
+                "https://i.imgur.com/owZveO6.jpeg",
+                "https://i.imgur.com/RCOIgvD.jpeg",
+                "https://i.imgur.com/n9nS01s.jpeg",
+                "https://i.imgur.com/OlKt43P.jpeg",
+                "https://i.imgur.com/vqemKVX.jpeg",
+                "https://i.imgur.com/KXqjVQa.jpeg",
+                "https://i.imgur.com/62Eh9Ud.jpeg",
+                "https://i.imgur.com/67DlhNE.jpeg"
+            ]
+        },
+        {
+            "title": "Rapidos y furiosos",
+            "image": "https://i.imgur.com/HxJJ1Hk.png",
+            "avatars": [
+                "https://i.imgur.com/Q5fx69g.png",
+                "https://i.imgur.com/1HbiuZD.png",
+                "https://i.imgur.com/IYJFcLj.png",
+                "https://i.imgur.com/DfJ593D.png",
+                "https://i.imgur.com/Id8FDiR.png",
+                "https://i.imgur.com/TYu8HOr.png",
+                "https://i.imgur.com/JFxb9Lg.png",
+                "https://i.imgur.com/tzLlU0z.png",
+                "https://i.imgur.com/X9ih3BR.png",
+                "https://i.imgur.com/CrFj8r3.png",
+                "https://i.imgur.com/vmazZtW.png",
+                "https://i.imgur.com/T2IoD4N.png",
+                "https://i.imgur.com/1puwDnq.png",
+                "https://i.imgur.com/yRzcdWz.png",
+                "https://i.imgur.com/Vvu62eP.png"
+            ]
+        },
+        {
+            "title": "Raya y el ultimo dragon",
+            "image": "https://i.imgur.com/ZRjRQqT.png",
+            "avatars": [
+                "https://i.imgur.com/NIdQ5PB.png",
+                "https://i.imgur.com/I8YvVrZ.png"
+            ]
+        },
+        {
+            "title": "Resident evil",
+            "image": "https://i.imgur.com/NRRX56G.png",
+            "avatars": [
+                "https://i.imgur.com/ch8ae12.png",
+                "https://i.imgur.com/6AkV5Ip.png",
+                "https://i.imgur.com/guWoRvb.png",
+                "https://i.imgur.com/vrXEeZC.png",
+                "https://i.imgur.com/qEgNRzi.png",
+                "https://i.imgur.com/bXDqjsA.png",
+                "https://i.imgur.com/h3Ej5j9.png",
+                "https://i.imgur.com/k26m7jY.png",
+                "https://i.imgur.com/J0F9ndO.png",
+                "https://i.imgur.com/7KVlLru.png",
+                "https://i.imgur.com/dHF4c6m.png",
+                "https://i.imgur.com/LkXVZmZ.png",
+                "https://i.imgur.com/QofQ4qg.png"
+            ]
+        },
+        {
+            "title": "Resident evil Bienvenidos a Racoon city",
+            "image": "https://i.imgur.com/6PEhx1D.png",
+            "avatars": [
+                "https://i.imgur.com/6ZliOd1.png",
+                "https://i.imgur.com/IaFblf6.png",
+                "https://i.imgur.com/gNFDUCM.png",
+                "https://i.imgur.com/fAQzoM0.png",
+                "https://i.imgur.com/u1K365O.png"
+            ]
+        },
+        {
+            "title": "Rick Y Morty",
+            "image": "https://i.imgur.com/AOdyMGZ.png",
+            "avatars": [
+                "https://i.imgur.com/EsGT9py.png",
+                "https://i.imgur.com/x2L7u8B.png",
+                "https://i.imgur.com/aMNDabi.png",
+                "https://i.imgur.com/OjmRquh.png",
+                "https://i.imgur.com/02dN9Pm.png",
+                "https://i.imgur.com/OlpY9fU.png",
+                "https://i.imgur.com/mqBErw2.png",
+                "https://i.imgur.com/dmqPQW1.png",
+                "https://i.imgur.com/hbPm1Sb.png",
+                "https://i.imgur.com/SBJcndy.png",
+                "https://i.imgur.com/u6hsGdq.png"
+            ]
+        },
+        {
+            "title": "Scooby Doo",
+            "image": "https://i.imgur.com/Cxt3nVI.png",
+            "avatars": [
+                "https://i.imgur.com/Aq7ni6x.png",
+                "https://i.imgur.com/Acrmr0N.png",
+                "https://i.imgur.com/FU9axZM.png",
+                "https://i.imgur.com/oyawR4b.png",
+                "https://i.imgur.com/BjIWwZQ.png"
+            ]
+        },
+        {
+            "title": "Scott Pilgrim vs",
+            "image": "https://i.imgur.com/dbUXZlS.png",
+            "avatars": [
+                "https://i.imgur.com/oDrktAf.png",
+                "https://i.imgur.com/6y9SB9z.png",
+                "https://i.imgur.com/JvdUKaA.png",
+                "https://i.imgur.com/vU8mi3m.png",
+                "https://i.imgur.com/TKCF038.png",
+                "https://i.imgur.com/SzOuR5K.png",
+                "https://i.imgur.com/UXFT0g3.png"
+            ]
+        },
+        {
+            "title": "Shrek",
+            "image": "https://i.imgur.com/OITlUFy.png",
+            "avatars": [
+                "https://i.imgur.com/4yiglBE.png",
+                "https://i.imgur.com/E72lp7B.png",
+                "https://i.imgur.com/GWdwRUu.png",
+                "https://i.imgur.com/Cyj8Mcq.png",
+                "https://i.imgur.com/DVF858C.png"
+            ]
+        },
+        {
+            "title": "Spiderman No way home",
+            "image": "https://i.imgur.com/HBjvn6h.png",
+            "avatars": [
+                "https://i.imgur.com/3Sq9mAg.png",
+                "https://i.imgur.com/g84hT3s.png",
+                "https://i.imgur.com/yWSiP9v.png",
+                "https://i.imgur.com/gtJgwLZ.png",
+                "https://i.imgur.com/XVomGww.png",
+                "https://i.imgur.com/qDs4hBX.png",
+                "https://i.imgur.com/b0nwvzX.png",
+                "https://i.imgur.com/dPYttyk.png",
+                "https://i.imgur.com/mF907YG.png",
+                "https://i.imgur.com/HvFxUWk.png"
+            ]
+        },
+        {
+            "title": "Teen Wolf",
+            "image": "https://i.imgur.com/bomCYqF.png",
+            "avatars": [
+                "https://i.imgur.com/VGfdgh5.png",
+                "https://i.imgur.com/MKlCTnL.png",
+                "https://i.imgur.com/0nsMf0h.png",
+                "https://i.imgur.com/WwxZi0o.png",
+                "https://i.imgur.com/SCeHhv4.png",
+                "https://i.imgur.com/vrIJPrs.png",
+                "https://i.imgur.com/W14SD5t.png",
+                "https://i.imgur.com/rz0dpWu.png",
+                "https://i.imgur.com/rqVkiR7.png",
+                "https://i.imgur.com/GsrMBxW.png",
+                "https://i.imgur.com/bXO08xv.png",
+                "https://i.imgur.com/360SdpU.png",
+                "https://i.imgur.com/X7ALK7G.png",
+                "https://i.imgur.com/wdDvBWP.png"
+            ]
+        },
+        {
+            "title": "The Batman",
+            "image": "https://i.imgur.com/kPaDqZy.png",
+            "avatars": [
+                "https://i.imgur.com/cg8QpTs.png",
+                "https://i.imgur.com/u1ZwDdN.png",
+                "https://i.imgur.com/G601sj9.png",
+                "https://i.imgur.com/kvcbADO.png"
+            ]
+        },
+        {
+            "title": "twd",
+            "image": "https://i.imgur.com/w91OYMG.png",
+            "avatars": [
+                "https://i.imgur.com/hypz3PT.png",
+                "https://i.imgur.com/5Nid644.png",
+                "https://i.imgur.com/OPqlCnB.png",
+                "https://i.imgur.com/rWqv8dS.png",
+                "https://i.imgur.com/xcc4HVP.png",
+                "https://i.imgur.com/saSb5El.png",
+                "https://i.imgur.com/0ZVnOwi.png",
+                "https://i.imgur.com/qLREvql.png",
+                "https://i.imgur.com/CLSAyFB.png",
+                "https://i.imgur.com/C5bTjEm.png",
+                "https://i.imgur.com/HjUMx36.png",
+                "https://i.imgur.com/fBoGdrn.png",
+                "https://i.imgur.com/0afFyjD.png",
+                "https://i.imgur.com/uRNsd9q.png",
+                "https://i.imgur.com/7O5ClEB.png"
+            ]
+        },
+        {
+            "title": "The Witcher",
+            "image": "https://i.imgur.com/tG2Vkdc.png",
+            "avatars": [
+                "https://i.imgur.com/k5lCxs4.png",
+                "https://i.imgur.com/Na4wh9r.png",
+                "https://i.imgur.com/HhbWnO5.png"
             ]
         },
         {
             "title": "Tokyo Ghoul",
-            "image": "https://i.imgur.com/YEhtzgM.png",
+            "image": "https://i.imgur.com/dkn5LWZ.png",
             "avatars": [
-                "https://i.imgur.com/8lKyTnr.png",
-                "https://i.imgur.com/fry9UCe.png",
-                "https://i.imgur.com/uwx3WEK.png",
-                "https://i.imgur.com/3eRK0Tu.png",
-                "https://i.imgur.com/mWDabxE.png"
+                "https://i.imgur.com/my2WdZv.png",
+                "https://i.imgur.com/dSn9Sgc.png",
+                "https://i.imgur.com/LW7OAMg.png",
+                "https://i.imgur.com/1wuTfLH.png",
+                "https://i.imgur.com/HaVR18R.png"
+            ]
+        },
+        {
+            "title": "Venom",
+            "image": "https://i.imgur.com/eniTmse.png",
+            "avatars": [
+                "https://i.imgur.com/fmmKxRw.png",
+                "https://i.imgur.com/OrQo2ml.png",
+                "https://i.imgur.com/C910JZ8.png",
+                "https://i.imgur.com/b9BxrzZ.png",
+                "https://i.imgur.com/KhL0YQC.png",
+                "https://i.imgur.com/wYfFDm1.png"
+            ]
+        },
+        {
+            "title": "Wandavision",
+            "image": "https://i.imgur.com/eyvDAbu.png",
+            "avatars": [
+                "https://i.imgur.com/UfOCzRn.png",
+                "https://i.imgur.com/7JwiMxf.png",
+                "https://i.imgur.com/c8Hrqfi.png",
+                "https://i.imgur.com/SI4Sqs3.png",
+                "https://i.imgur.com/6C0M9Fl.png",
+                "https://i.imgur.com/TyHXgbp.png",
+                "https://i.imgur.com/pNvtArm.png",
+                "https://i.imgur.com/GJRo42T.png",
+                "https://i.imgur.com/8JPZEup.png",
+                "https://i.imgur.com/B0hYfc5.png"
+            ]
+        },
+        {
+            "title": "What If",
+            "image": "https://i.imgur.com/PDBGpQI.png",
+            "avatars": [
+                "https://i.imgur.com/3a5Ul07.png",
+                "https://i.imgur.com/W8F161T.png",
+                "https://i.imgur.com/6NHNkEU.png",
+                "https://i.imgur.com/JBspits.png",
+                "https://i.imgur.com/nIvb5WZ.png",
+                "https://i.imgur.com/q4bLBJa.png",
+                "https://i.imgur.com/pIGdw4I.png",
+                "https://i.imgur.com/xIFqJoB.png",
+                "https://i.imgur.com/jxdGWw6.png",
+                "https://i.imgur.com/PsSsGd9.png",
+                "https://i.imgur.com/a5hHbN4.png",
+                "https://i.imgur.com/kOadQnG.png",
+                "https://i.imgur.com/SN696kT.png",
+                "https://i.imgur.com/tUkoAgP.png",
+                "https://i.imgur.com/07oYmtR.png",
+                "https://i.imgur.com/UbTJD9X.png",
+                "https://i.imgur.com/d1P3Y7a.png"
             ]
         },
         {
             "title": "Wonder Woman",
-            "image": "https://i.imgur.com/EusbL9A.png",
+            "image": "https://i.imgur.com/yvjdbPw.png",
             "avatars": [
-                "https://i.imgur.com/lArZLeO.png",
-                "https://i.imgur.com/pWXqyHR.png",
-                "https://i.imgur.com/WBM0YtN.png",
-                "https://i.imgur.com/M8EIx9z.png",
-                "https://i.imgur.com/aCQm933.png",
-                "https://i.imgur.com/oU1iHAA.png"
+                "https://i.imgur.com/tPQiY5o.png",
+                "https://i.imgur.com/ia0aVQU.png",
+                "https://i.imgur.com/aGwMmiD.png",
+                "https://i.imgur.com/QyYJu1P.png",
+                "https://i.imgur.com/sgWTtAq.png",
+                "https://i.imgur.com/iL19kzK.png"
+            ]
+        },
+        {
+            "title": "WWE",
+            "image": "https://i.imgur.com/KhTVtjr.png",
+            "avatars": [
+                "https://i.imgur.com/EaOdShq.png",
+                "https://i.imgur.com/btLuC1S.png",
+                "https://i.imgur.com/i5rSCrQ.png",
+                "https://i.imgur.com/68pP7pu.png",
+                "https://i.imgur.com/lLIeyM9.png",
+                "https://i.imgur.com/4rXMxEw.png",
+                "https://i.imgur.com/VzX1u5n.png",
+                "https://i.imgur.com/HihOTPM.png",
+                "https://i.imgur.com/wkrW44s.png",
+                "https://i.imgur.com/ZDAuOxG.png",
+                "https://i.imgur.com/lPFxKPY.png"
+            ]
+        },
+        {
+            "title": "Yo Soy Franky",
+            "image": "https://i.imgur.com/uXw6yng.png",
+            "avatars": [
+                "https://i.imgur.com/dVOH5zX.png",
+                "https://i.imgur.com/dl8bbkE.png",
+                "https://i.imgur.com/nQVNYIB.png",
+                "https://i.imgur.com/GJ0udRe.png",
+                "https://i.imgur.com/BVIpwLs.png"
             ]
         }
     ]
