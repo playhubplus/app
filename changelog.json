@@ -1,10 +1,20 @@
 [
-  "Nueva función de descargas (requiere 1DM)",
-  "Nueva sección de comentarios",
-  "Nuevos servidores agregados",
-  "Nueva sección de películas y series por actor",
-  "Mejora en la sección de colecciones",
-  "Error reparado, marcar como visto en anime",
-  "Se elimino cache de imágenes",
-  "Otros problemas menores"
+   "Nueva función de descargas (requiere 1DM)",
+   "Bug de descarga en episodios reparado",
+   "Nueva sección de comentarios",
+   "Nuevos servidores agregados",
+   "Nueva sección de películas y series por actor",
+   "Mejora en la sección de colecciones",
+   "Error reparado: marcar como visto en anime",
+   "Se elimino cache de imágenes",
+   "Aglunos servidores reparados",
+   "Nuevo sistema de creditos",
+   "Ahora es opcional cambiar contraseña al actualizar tu perfil",
+   "Mejora en la sección de pedidos",
+   "Se agrego cargas más en sección noticias",
+   "Mejora en las notificaciones",
+   "Nueva función de rangos",
+   "Se agregaron recomendaciones en series",
+   "Ahora puedes votar tu contenido favorito",
+   "Otros problemas menores"
 ]
