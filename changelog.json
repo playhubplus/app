@@ -1,10 +1,11 @@
 [
-   "❗️ Error al buscar en colecciones reparado",
-   "❗️ Se reparo al abrir el contenido en el inicio",
-   "❗️ Se reparo el error al mostrar la ventana si es VIP",
-   "❗️ Se reparo el inicio de sesión (FCM err)",
-   "❗️ Se reparo el error si no había conexión",
-   "❗️ Se eliminaron anuncion en TV",
-   "❗️ Se agrego un nuevo banner al inicio para noticias de TeamHUB",
+   "Exclusive: se añadió un servidor propio y mejorado con soporte de audio dual y subs (carbono)",
+   "❗️ Se añadió Autoplay (se active desde ajustes)",
+   "❗️ Se añadió soporte para el audio dual (solo funciona con los servidores lydia y carbono)",
+   "❗️ Se añadió soporte para enviar contenido por ChromeCast (solo en algunos servidores)",
+   "❗️ Nueva sección Para reír 😃",
+   "❗️ Se añadió descarga en la sección de animes",
+   "❗️ Se añadió la opción de poder modificar el buffer del reproductor. (Esto para mejorar la reproducción)",
+   "❗️ Modificamos un poco la interfaz",
    "TeamHUB ❤️"
 ]
